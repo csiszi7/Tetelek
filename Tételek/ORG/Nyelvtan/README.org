@@ -1,6 +1,5 @@
 * Nyelvtan tételek
-
-- [[1_Kommunikáció.org][1_Kommunikáció.org]]
+- [[1_Kommunikáció.org][1_Kommunikáció.org]] 
 - [[2_A magyar nyelv története.org][2_A magyar nyelv története.org]]
 - [[3_tetel_Ember_es_nyelvhasznalat.org][3_tetel_Ember_es_nyelvhasznalat.org]]
 - [[4_tétel A_nyelvi_rendszer_tetel.org][4_tétel A_nyelvi_rendszer_tetel.org]]

@@ -1,4 +1,5 @@
 * Irodalom tételek .org formátumban
+** Szilárd
 - [[1_tetel_Ady_Endre_Leda_tetel.org][1_tetel_Ady_Endre_Leda_tetel.org]]
 - [[2_tetel_AranyJános_Balladaköltészete.org][2_tetel_AranyJános_Balladaköltészete.org]]
 - [[3_tetel_Babits_Profetai_Kuldetestudat.org][3_tetel_Babits_Profetai_Kuldetestudat.org]]
@@ -9,6 +10,9 @@
 - [[8_tetel_Mikszath_Kalman_novellisztikaja.org][8_tetel_Mikszath_Kalman_novellisztikaja.org]]
 - [[9_tetel_Petofi_hitvesi_koltészet.org][9_tetel_Petofi_hitvesi_koltészet.org]]
 - [[10_tetel_Csokonai_Lilla_versek.org][10_tetel_Csokonai_Lilla_versek.org]]
+- [[11. Kosztolányi][]]
+  
+** Béla
 - [[12_Juhasz_Gyula_Liraja.org][12_Juhasz_Gyula_Liraja.org]]
 - [[13_Radnoti_Miklos_Eklogakolteszete.org][13_Radnoti_Miklos_Eklogakolteszete.org]]
 - [[14_Kanyadi_Sandor_Kolteszete.org][14_Kanyadi_Sandor_Kolteszete.org]]
