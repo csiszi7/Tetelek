@@ -1,0 +1,10 @@
+* Nyelvtan tételek
+
+- [[1_Kommunikáció.org][1_Kommunikáció.org]]
+- [[2_A magyar nyelv története.org][2_A magyar nyelv története.org]]
+- [[3_tetel_Ember_es_nyelvhasznalat.org][3_tetel_Ember_es_nyelvhasznalat.org]]
+- [[4_tétel A_nyelvi_rendszer_tetel.org][4_tétel A_nyelvi_rendszer_tetel.org]]
+- [[5_tétel A szöveg.org][5_tétel A szöveg.org]]
+- [[6_Retorika_alapjai_tetel.org][6_Retorika_alapjai_tetel.org]]
+- [[7_tetel_stilus_es_jelentes.org][7_tetel_stilus_es_jelentes.org]]
+- [[8_tetel_digitalis_kommunikacio.org][8_tetel_digitalis_kommunikacio.org]]
