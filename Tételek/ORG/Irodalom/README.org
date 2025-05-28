@@ -10,7 +10,6 @@
 - [[8_tetel_Mikszath_Kalman_novellisztikaja.org][8_tetel_Mikszath_Kalman_novellisztikaja.org]]
 - [[9_tetel_Petofi_hitvesi_koltészet.org][9_tetel_Petofi_hitvesi_koltészet.org]]
 - [[10_tetel_Csokonai_Lilla_versek.org][10_tetel_Csokonai_Lilla_versek.org]]
-- [[11. Kosztolányi][]]
   
 ** Béla
 - [[12_Juhasz_Gyula_Liraja.org][12_Juhasz_Gyula_Liraja.org]]
@@ -22,3 +21,6 @@
 - [[18_Az_Angol_Reneszansz_Drama.org][18_Az_Angol_Reneszansz_Drama.org]]
 - [[19_Madach_Imre_Az_ember_tragediaja.org][19_Madach_Imre_Az_ember_tragediaja.org]]
 - [[20_Az_Irodalom_Hatarteruletei_Magyar_nepmesek.org][20_Az_Irodalom_Hatarteruletei_Magyar_nepmesek.org]]
+
+
+* Csereld ki a 10-est 11-est majd
