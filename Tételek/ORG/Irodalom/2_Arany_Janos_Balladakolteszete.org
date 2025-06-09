@@ -1,4 +1,4 @@
-#+TITLE: Arany János élete, kora és a balladaköltészet helye munkásságában\\
+#+TITLE: Arany János élete, kora és a balladaköltészet helye munkásságában
 #+AUTHOR: Gyenes Béla
 #+LANGUAGE: hu
 #+CATEGORY: hu_irodalom

@@ -1,0 +1,76 @@
+#+TITLE: 16. A francia szimbolista líra
+#+AUTHOR: Gyenes Béla
+#+LANGUAGE: hu
+* Áttekintés
+- Keletkezés és virágkor: kb. 1857–1900  
+- Fő képviselők: Charles Baudelaire, Paul Verlaine, Stéphane Mallarmé, Arthur Rimbaud, José-María de Heredia, Paul Valéry  
+- Lényeg: a látható világ mögötti belső valóság, hangulatok és asszociációk költészete, ahol a szimbólumok a transzcendens felé mutatnak  
+- Irodalmi előzmények: romantika (Goethe, Lamartine), parnasszizmus (Heredia, Leconte de Lisle)  
+
+* Történelmi és esztétikai háttér
+** A romantika és parnasszizmus viszonya
+- A romantika szubjektív lírája → igény a szigorúbb forma és tárgyilagosság felé  
+- A parnasszista „művészet tisztasága” (l’art pour l’art) → az érzelem áttételes, szimbólumokon keresztüli közvetítése  
+
+** Kulturális hatások
+- Wagner és a zenei színpadi hatás: költészet mint „hangverseny”  
+- Esztétikai manifesztumok: Verlaine művészeti elveinek idősebb Parnasszus folyóiratban megjelent írásai  
+- Filozófiai háttér: Schopenhauer pesszimizmusa, Baudelaire dekadens világképe  
+
+* Fő tematikai egységek
+** 1. A belső világ leképezése
+- Hangulat és melankólia: Baudelaire „szomorúság költészete” (Les Fleurs du mal)  
+- Álomszerűség és misztika: Mallarmé „szimbólumok költészete”  
+- Az én belső szétesése: Rimbaud „megtört litánia” (Illuminations)  
+
+** 2. Természet és évszakok szimbolikája
+- Virág és pusztulás: a virág motívuma a szépség és halál kettős szimbólumaként  
+- Víz, köd és alkony: a hangulatfestés eszközei, a határhelyzetek megjelenítése  
+- Évszakok ciklusa: belső állapotváltások leképezése évszakokkal („Poèmes saturniens”)  
+
+** 3. Szerelem, vágy és dekadencia
+- Vonzás és taszítás: az eszményített nőalak és az ördögi erők konfliktusa  
+- Test és lélek kettőssége: dekadens erotika, bűn és bűnhődés motívuma  
+- A dekadencia tudatos vállalása: „déli hymnus” a pusztulásról és megújulásról  
+
+** 4. Zeneiség és nyelvi kísérletek
+- Szabad vers és belső ritmus: Verlaine „vers sans rythme” elve  
+- Szinkeszézia (színek és hangok összekapcsolása): „zöld reggel”, „kék dallam”  
+- Játékszerű képalkotás: Mallarmé elvont képei, Rimbaud absztrakt metaforái  
+
+** 5. Szimbólumok és allegóriák
+- A szimbólum mint kapu a transzcendenshez: Mallarmé „mindenben ott a sugallat”  
+- Allegorikus alakok: tündérek, csuklyás alakok, égi jelenségek  
+- Titok és misztérium: a jelentésrétegek felfejtésének élménye  
+
+* Kulcsművek és ciklusok
+** Charles Baudelaire: Les Fleurs du mal (1857)
+- Az emberi lélek „bűnös szépsége”, a dekadencia pionírja  
+- Szomorúság, gőg, erotika és misztika egymásba fonódása  
+
+** Paul Verlaine: Romances sans paroles (1874)
+- Zenei líra: intimebb, hajlékony forma, belső ritmus dominanciája  
+- Finom hangulatfestés, érzékletes képek  
+
+** Stéphane Mallarmé: Un coup de dés jamais n’abolira le hasard 1897)
+- Radikális formai újítás: tipográfiai kísérlet, tér és üresen hagyott helyek  
+- A véletlen, a semmi és a láthatatlan szerepe  
+
+** Arthur Rimbaud: Illuminations (1886), A Season in Hell (1873)
+- Lázadó, prózaversbe hajló kísérletek; szürreális előhangok  
+- A költő mint „látnok” és a nyelv mint eszköz  
+
+** Paul Valéry: La Jeune Parque (1917)
+- Intellektuális líra: gondolati esszévers, precíz forma  
+- Az alkotó és mű viszonyának reflexiója  
+
+* Stílusjegyek és forma
+- Vers libre (szabad vers), laisses és későbbi prózavers-hibrid  
+- Gazdag metaforika, erőteljes hangulatfestés  
+- Elmosódott alakzatok, fragmentált szerkezetek  
+- Szemantikai többrétegűség, a múlt és jelen párbeszéde  
+
+* Hatás és utóélet
+- Impresszionizmusra és szimbolizmusra épülő 20. századi modernizmus  
+- A futurizmus, dadaizmus és szürrealizmus előfutárai  
+- Kortárs magyar recepció: Kosztolányi, Babits, József Attila fordításai és adaptációi  
