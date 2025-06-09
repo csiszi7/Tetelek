@@ -1,26 +1,21 @@
-* Irodalom tételek .org formátumban
-** Szilárd
-- [[1_tetel_Ady_Endre_Leda_tetel.org][1_tetel_Ady_Endre_Leda_tetel.org]]
-- [[2_tetel_AranyJános_Balladaköltészete.org][2_tetel_AranyJános_Balladaköltészete.org]]
-- [[3_tetel_Babits_Profetai_Kuldetestudat.org][3_tetel_Babits_Profetai_Kuldetestudat.org]]
-- [[4_tetel_Herczeg_Ferenc_kisepika.org][4_tetel_Herczeg_Ferenc_kisepika.org]]
-- [[5_tetelJokai_tetel_romantika_realizmus.org][5_tetelJokai_tetel_romantika_realizmus.org]]
-- [[6_tetel_Jozsef_Attila_szerelmi_kolteszete.org][6_tetel_Jozsef_Attila_szerelmi_kolteszete.org]]
-- [[7_tetel_Kosztolanyi_prozai_tetel.org][7_tetel_Kosztolanyi_prozai_tetel.org]]
-- [[8_tetel_Mikszath_Kalman_novellisztikaja.org][8_tetel_Mikszath_Kalman_novellisztikaja.org]]
-- [[9_tetel_Petofi_hitvesi_koltészet.org][9_tetel_Petofi_hitvesi_koltészet.org]]
-- [[10_tetel_Csokonai_Lilla_versek.org][10_tetel_Csokonai_Lilla_versek.org]]
-  
-** Béla
-- [[12_Juhasz_Gyula_Liraja.org][12_Juhasz_Gyula_Liraja.org]]
-- [[13_Radnoti_Miklos_Eklogakolteszete.org][13_Radnoti_Miklos_Eklogakolteszete.org]]
-- [[14_Kanyadi_Sandor_Kolteszete.org][14_Kanyadi_Sandor_Kolteszete.org]]
-- [[15_Toth_Krisztina_Novellisztikaja.org][15_Toth_Krisztina_Novellisztikaja.org]]
-- [[16_A_Francia_Szimbolista_Lira.org][16_A_Francia_Szimbolista_Lira.org]]
-- [[17_Az_Orosz_Romantika_Es_Realizmus_Hataran-Gogol.org][17_Az_Orosz_Romantika_Es_Realizmus_Hataran-Gogol.org]]
-- [[18_Az_Angol_Reneszansz_Drama.org][18_Az_Angol_Reneszansz_Drama.org]]
-- [[19_Madach_Imre_Az_ember_tragediaja.org][19_Madach_Imre_Az_ember_tragediaja.org]]
-- [[20_Az_Irodalom_Hatarteruletei_Magyar_nepmesek.org][20_Az_Irodalom_Hatarteruletei_Magyar_nepmesek.org]]
-
-
-* Csereld ki a 10-est 11-est majd
+* Irodalom tételek
+[[1_tetel_Ady_Endre_Leda_tetel.org][1. tetel_Ady_Endre_Leda_tetel.org]]
+[[2_Arany_Janos_Balladakolteszete.org][2. Arany_Janos_Balladakolteszete.org]]
+[[3_Babits_Profetai_Kuldetestudat.org][3. Babits_Profetai_Kuldetestudat.org]]
+[[4_Herczeg_Ferenc_kisepika.org][4. Herczeg_Ferenc_kisepika.org]]
+[[5_Jokai_romantika_realizmus.org][5. Jokai_romantika_realizmus.org]]
+[[6_Jozsef_Attila_szerelmi_kolteszete.org][6. Jozsef_Attila_szerelmi_kolteszete.org]]
+[[7_Kosztolanyi_prozai.org][7. Kosztolanyi_prozai.org]]
+[[8_Mikszath_Kalman_novellisztikaja.org][8. Mikszath_Kalman_novellisztikaja.org]]
+[[9_Petofi_hitvesi_kolteszet.org][9. Petofi_hitvesi_kolteszet.org]]
+[[10_A_nemzeti_tematika_Vorosmarty_eletmuveben.org][10. A_nemzeti_tematika_Vorosmarty_eletmuveben.org]]
+[[11_Csokonai_Lilla_versek.org][11. Csokonai_Lilla_versek.org]]
+[[12_Juhasz_Gyula_liraja.org][12. Juhasz_Gyula_liraja.org]]
+[[13_Radnoti_Miklos_eklogakolteszete.org][13. Radnoti_Miklos_eklogakolteszete.org]]
+[[14_Kanyadi_Sandor_kolteszete.org][14. Kanyadi_Sandor_kolteszete.org]]
+[[15_Toth_Krisztina_novellisztikaja.org][15. Toth_Krisztina_novellisztikaja.org]]
+[[16_A_francia_szimbolista_lira.org][16. A_francia_szimbolista_lira.org]]
+[[17_Az_orosz_romantika_es_realizmus_hataran-gogol.org][17. Az_orosz_romantika_es_realizmus_hataran-gogol.org]]
+[[18_Az_angol_reneszansz_drama.org][18. Az_angol_reneszansz_drama.org]]
+[[19_Madach_Imre_Az_ember_tragediaja.org][19. Madach_Imre_Az_ember_tragediaja.org]]
+[[20_Az_irodalom_hatarteruletei_magyar_nepmesek.org][20. Az_irodalom_hatarteruletei_magyar_nepmesek.org]]
