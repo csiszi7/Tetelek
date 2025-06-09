@@ -1,0 +1,100 @@
+#+TITLE: 10. Szerzők, művek, korszakok a régi magyar irodalomból a 18. század
+#+AUTHOR: Gyenes Béla
+#+LANGUAGE: hu
+#+CATEGORY: hu_irodalom
+- Kezdetei: A középkori magyar irodalom első emlékei (pl. Halotti beszéd, 12. sz. vége).
+- Középkor → Reneszánsz → Barokk → Felvilágosodás
+- A 18. század vége a felvilágosodás magyar irodalmának virágkora.
+- Latin nyelv helyett fokozatosan áttérés az anyanyelvi irodalomra.
+
+** 2. A felvilágosodás magyar irodalma
+:PROPERTIES:
+:CUSTOM_ID: a-felvilágosodás-magyar-irodalma
+:END:
+- Filozófiai és társadalmi háttere: ráció, szabadság, fejlődés, oktatás
+  fontossága.
+
+- Irodalmi hatások: francia klasszicizmus, német szentimentalizmus,
+  rokokó.
+
+- Főbb képviselők: Bessenyei György, Kazinczy Ferenc, Baróti Szabó
+  Dávid, Csokonai Vitéz Mihály.
+
+** 3. Csokonai Vitéz Mihály élete (1773--1805)
+:PROPERTIES:
+:CUSTOM_ID: csokonai-vitéz-mihály-élete-17731805
+:END:
+- Debreceni Református Kollégium diákja, később tanára.
+
+- Költői stílusa sokszínű: rokokó, klasszicizmus, szentimentalizmus és
+  preromantika elemei.
+
+- Változatos tematikájú életmű: dalok, elégiák, víg és komoly versek,
+  drámai és epikus művek.
+
+- Rövid, de termékeny élet -- 31 éves korában halt meg.
+
+** 4. Lilla-versek keletkezése és háttere
+:PROPERTIES:
+:CUSTOM_ID: lilla-versek-keletkezése-és-háttere
+:END:
+- A Lilla-ciklus ihletője Verseghy Júlia, akit Lillaként örökített meg
+  költészetében.
+
+- A szerelem boldogságát, majd fájdalmát mutatja be.
+
+- Szakításuk után születtek a legszebb magyar szerelmi elégiák.
+
+- A versek 1805-ben jelentek meg nyomtatásban: „Lilla” címmel.
+
+** 5. A Lilla-versek stílusa és műfaji jellemzői
+:PROPERTIES:
+:CUSTOM_ID: a-lilla-versek-stílusa-és-műfaji-jellemzői
+:END:
+- Szentimentalizmus: az érzelem elsődlegessége, melankólia, bánat.
+
+- Rokokó: játékos, könnyed hangvétel a boldog szerelem verseiben.
+
+- Elégia: fájdalommal átszőtt lírai forma, gyakran a szerelmi csalódás
+  kifejezője.
+
+- Zenei hatások, ritmusosság, természetképek, álom-motívumok.
+
+** 6. Elemzett versek (ajánlott példák)
+:PROPERTIES:
+:CUSTOM_ID: elemzett-versek-ajánlott-példák
+:END:
+- A Reményhez: A remény megszemélyesítése. Elégikus hangvétel, szerelmi
+  csalódás után. A verszárlatban a remény elvesztése: a lelki összeomlás
+  képe.
+
+- A tihanyi Ekhóhoz: A magány és elhagyatottság verse. A természet
+  elemeit használja a lélek fájdalmának kifejezésére. Az Ekhó, mint
+  visszhang, a költő belső világának tükre.
+
+- Lilla: A kötet nyitóverse. A nőideál megfestése: szépség, báj,
+  érzékenység. A szerelem kiteljesedésének reménye.
+
+** 7. Csokonai jelentősége a magyar irodalomban
+:PROPERTIES:
+:CUSTOM_ID: csokonai-jelentősége-a-magyar-irodalomban
+:END:
+- A magyar nyelvű líra megújítója.
+
+- Személyes hangvétel, érzelmek mélysége.
+
+- Átmenet a klasszicizmus és romantika között.
+
+- A Lilla-versek máig a magyar szerelmi líra csúcspontjai közé
+  tartoznak.
+
+** 8. Összegzés
+:PROPERTIES:
+:CUSTOM_ID: összegzés
+:END:
+- Csokonai Lilla-versei a személyes líra kibontakozásának fontos
+  állomásai.
+
+- A 18. századi magyar irodalom egyéni hangú, érzékeny alkotója.
+
+- Művei hidat képeznek a régi és modern magyar költészet között.
