@@ -9,7 +9,7 @@ visszavonulva a történelmi múltba menekült.\\
 - Ő a magyar balladaköltészet legjelentősebb mestere, balladái a magyar
 romantika sajátos válfaját képviselik.\\
 \\
-* 1. A ballada műfaji jellemzői Aranynál\\
+2. A ballada műfaji jellemzői Aranynál\\
 - A ballada epikus, lírai és drámai elemeket vegyítő műfaj.\\
 - Jellemző a sűrítés, balladai homály, töredékesség, párbeszédes forma,
 lélektani mélység.\\
@@ -18,7 +18,7 @@ kérdései.\\
 - Arany balladái gyakran reflektálnak a kor társadalmi, politikai
 viszonyaira, történelmi eseményekbe burkolva az aktuális mondanivalót.\\
 \\
-* 2. Térbeli és időbeli elhelyezés\\
+3. Térbeli és időbeli elhelyezés\\
 - Témáiban a magyar történelem sorsfordító pillanataiból (pl. középkor,
 török hódoltság, kuruc kor) merít.\\
 - A tér legtöbbször magyar tájakhoz (pl. Várad, Eger, a Tisza vidéke)
@@ -27,15 +27,15 @@ kötődik.\\
 1850--60-as évek politikai helyzetére is utal (pl. elnyomás,
 lelkiismereti kérdések).\\
 \\
-* 3. Fontosabb balladák elemzése\\
+4. Fontosabb balladák elemzése\\
 \\
-** a) Toldi szerelme (1879)\\
+a) Toldi szerelme (1879)\\
 - Bár epikus mű, balladaszerű részeket is tartalmaz.\\
 - A hős esendősége, a bűn és bűnhődés motívuma jelenik meg.\\
 - A népi hőst már nem diadalmas vitézként, hanem tragikus sorsú,
 magányos figuraként ábrázolja.\\
 \\
-** b) A walesi bárdok (1857)\\
+b) A walesi bárdok (1857)\\
 - Kölcsei Ferenc „Hymnus”-ához hasonlóan allegorikus, politikai
 ballada.\\
 - Történelmi keretbe ágyazva szól a szólásszabadságról, nemzeti
@@ -44,21 +44,21 @@ ballada.\\
 rezisztencia eszméjét hirdeti.\\
 - Jellemző a balladai homály, sűrítés, ismétléses szerkezet.\\
 \\
-** c) Ágnes asszony (1853)\\
+c) Ágnes asszony (1853)\\
 - Klasszikus „lélektani ballada”.\\
 - Egy asszony gyilkosság utáni lelki vívódását mutatja be.\\
 - A bűn és bűnhődés, a bűntudat mardosó ereje jelenik meg.\\
 - Az ismétlődő motívumok (pl. „Régi nóta”) a lélek fokozatos megőrülését
 ábrázolják.\\
 \\
-** d) Szondi két apródja (1856)\\
+d) Szondi két apródja (1856)\\
 - Történelmi ballada, amely a hűség, a hazaszeretet és az erkölcsi
 helytállás eszméit közvetíti.\\
 - Szondi hősiessége a török túlerővel szemben allegóriája a
 szabadságharc leverésének.\\
 - Az apródok gyászéneke a hősi múlt dicsőítésének szép példája.\\
 \\
-** e) V. László (1853)\\
+e) V. László (1853)\\
 - A hatalom és erkölcs viszonya, a felelősség és bűnhődés kérdései
 állnak a középpontban.\\
 - A történelmi szereplőkön keresztül Arany saját korának uralkodóival
@@ -66,7 +66,7 @@ szembeni kritikáját fogalmazza meg.\\
 - A tragikus végkifejlet (V. László halála) a végzet
 elkerülhetetlenségét hangsúlyozza.\\
 \\
-* 4. Összegzés\\
+5. Összegzés\\
 - Arany János balladaköltészete a magyar romantika egyik csúcspontja.\\
 - Balladái történelmi múltba helyezve adnak választ korának erkölcsi,
 politikai problémáira.\\
