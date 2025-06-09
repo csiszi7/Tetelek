@@ -10,7 +10,7 @@ A jel valamilyen érzékelhető dolog (hang, mozdulat, kép, stb.), amely egy m�
 2. Jelölt: Az a jelentés vagy dolog, amire a jel utal.
 
 *** Jelrendszerek
-- A jelek nem magukban léteznek, hanem ** rendszert alkotnak. ** 
+- A jelek nem magukban léteznek, hanem **rendszert alkotnak.** 
 - A kommunikációs helyzetben a jelek együttese segíti a megértést.
 
 *** Nyelvi jelek
