@@ -18,7 +18,7 @@ kérdései.\\
 - Arany balladái gyakran reflektálnak a kor társadalmi, politikai
 viszonyaira, történelmi eseményekbe burkolva az aktuális mondanivalót.\\
 \\
-* 3. Térbeli és időbeli elhelyezés\\
+* 2. Térbeli és időbeli elhelyezés\\
 - Témáiban a magyar történelem sorsfordító pillanataiból (pl. középkor,
 török hódoltság, kuruc kor) merít.\\
 - A tér legtöbbször magyar tájakhoz (pl. Várad, Eger, a Tisza vidéke)
@@ -27,7 +27,7 @@ kötődik.\\
 1850--60-as évek politikai helyzetére is utal (pl. elnyomás,
 lelkiismereti kérdések).\\
 \\
-* 4. Fontosabb balladák elemzése\\
+* 3. Fontosabb balladák elemzése\\
 \\
 ** a) Toldi szerelme (1879)\\
 - Bár epikus mű, balladaszerű részeket is tartalmaz.\\
@@ -66,7 +66,7 @@ szembeni kritikáját fogalmazza meg.\\
 - A tragikus végkifejlet (V. László halála) a végzet
 elkerülhetetlenségét hangsúlyozza.\\
 \\
-* 5. Összegzés\\
+* 4. Összegzés\\
 - Arany János balladaköltészete a magyar romantika egyik csúcspontja.\\
 - Balladái történelmi múltba helyezve adnak választ korának erkölcsi,
 politikai problémáira.\\
