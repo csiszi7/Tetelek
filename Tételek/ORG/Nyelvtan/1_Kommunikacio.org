@@ -3,80 +3,81 @@
 :PROPERTIES:
 :CUSTOM_ID: a-kommunikáció-folyamata-tényezői
 :END:
-Kommunikáció: Információcsere folyamata, amelyben üzenetet közlünk
-valakivel valamilyen csatornán keresztül.
+Kommunikáció: *Információcsere* folyamata, amelyben üzenetet közlünk
+valakivel valamilyen *csatornán* keresztül.
 
 Folyamata:
 
-- Adó (küldő): Aki az üzenetet megfogalmazza.
+- Adó (küldő): Aki az *üzenetet megfogalmazza*.
 
-- Kódolás: A gondolatok jelekké alakítása (pl. nyelv, gesztus).
+- Kódolás: A gondolatok *jelekké alakítása (pl. nyelv, gesztus)*.
 
-- Csatorna: Az eszköz, amin keresztül az üzenet eljut (pl. beszédhang,
-írás, média).
+- Csatorna: Az *eszköz*, amin keresztül az *üzenet eljut (pl. beszédhang,
+írás, média).*
 
-- Vevő (fogadó): Aki az üzenetet fogadja.
+- Vevő (fogadó): Aki az *üzenetet fogadja.*
 
-- Dekódolás: Az üzenet értelmezése.
+- Dekódolás: Az *üzenet értelmezése.*
 
-- Visszacsatolás: A fogadó reakciója az üzenetre.
+- Visszacsatolás: A fogadó *reakciója az üzenetre.*
 
-- Zaj: Minden olyan tényező, amely torzítja vagy akadályozza az üzenet
-eljutását.
+- Zaj: Minden olyan tényező, amely *torzítja vagy akadályozza az üzenet
+eljutását.*
 
 * 2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei
 :PROPERTIES:
 :CUSTOM_ID: az-emberi-kommunikáció-nem-nyelvi-jelei-és-kifejezőeszközei
 :END:
-Mimika: Arcjáték (pl. mosoly, homlokráncolás).
+Mimika: *Arcjáték (pl. mosoly, homlokráncolás).*
 
-Gesztusok: Kéz- és karjelek, testmozdulatok.
+Gesztusok: Kéz- és karjelek, *testmozdulatok*.
 
-Testtartás: A test helyzete, tartása, ami érzelmi állapotot is
+Testtartás: A *test helyzete,* tartása, ami *érzelmi állapotot* is
 kifejezhet.
 
-Tekintet: Szemkontaktus, pillantások jelentősége.
+Tekintet: *Szemkontaktus*, pillantások jelentősége.
 
-Térközszabályozás (proxemika): A távolság tartása kommunikáció közben.
+Térközszabályozás (proxemika): A *távolság tartása kommunikáció közben.*
 
-Testbeszéd (kinesika): Összes testi mozdulatunk.
+Testbeszéd (kinesika): *Összes testi mozdulatunk.*
 
-Paranyelv: A beszéd nem tartalmi jellemzői (hangmagasság, hangerő,
+Paranyelv: A *beszéd nem tartalmi jellemzői* (hangmagasság, hangerő,
 tempó, hanglejtés).
 
-Viselet, megjelenés: Ruházat, ápoltság is üzenetet közvetít.
+Viselet, megjelenés: *Ruházat, ápoltság* is üzenetet *közvetít.*
 
 * 3. A kommunikáció célja, funkciói
 :PROPERTIES:
 :CUSTOM_ID: a-kommunikáció-célja-funkciói
 :END:
-Tájékoztató (információközlő) funkció: Tények, információk közlése.
+Tájékoztató (információközlő) funkció: Tények, *információk közlése.*
 
-Kifejező (expresszív) funkció: A beszélő érzéseinek, gondolatainak
-kifejezése.
+Kifejező (expresszív) funkció: A beszélő *érzéseinek, gondolatainak
+kifejezése.*
 
-Felhívó (konatív) funkció: A hallgató befolyásolása, cselekvésre
-ösztönzés.
+Felhívó (konatív) funkció: A hallgató *befolyásolása, cselekvésre
+ösztönzés.*
 
-Kapcsolattartó (fatikus) funkció: A kapcsolat fenntartása,
-figyelemfelkeltés.
+Kapcsolattartó (fatikus) funkció: A *kapcsolat fenntartása,
+figyelemfelkeltés.*
 
-Értelmező (metanyelvi) funkció: A nyelv vagy a kommunikációs helyzet
-tisztázása.
+Értelmező (metanyelvi) funkció: A nyelv vagy a *kommunikációs helyzet
+tisztázása.*
 
-Esztétikai funkció: A nyelv művészi használata (pl. irodalmi művekben).
+Esztétikai funkció: A nyelv *művészi használata (pl. irodalmi művekben).*
 
 * 4. A kommunikáció típusainak, jellemzőinek megismerése
 :PROPERTIES:
 :CUSTOM_ID: a-kommunikáció-típusainak-jellemzőinek-megismerése
 :END:
-Személyes kommunikáció: Két ember közötti közvetlen kommunikáció.
 
-Csoportos kommunikáció: Kisebb közösségekben zajlik, csoportnormák
+Személyes kommunikáció: Két ember közötti *közvetlen kommunikáció.*
+
+Csoportos kommunikáció: Kisebb *közösségekben zajlik,* csoportnormák
 hatása érvényesül.
 
-Nyilvános kommunikáció: Egy személy kommunikál nagyobb közönséggel (pl.
+Nyilvános kommunikáció: *Egy személy kommunikál nagyobb közönséggel* (pl. előadás, nyilvános beszéd.)*
 előadás).
 
-Tömegkommunikáció: Nagy közönséghez szóló, technikai közvetítéssel zajló
-kommunikáció (pl. TV, internet).
+Tömegkommunikáció: *Nagy közönséghez* szóló, technikai *közvetítéssel zajló
+kommunikáció (pl. TV, internet).*
