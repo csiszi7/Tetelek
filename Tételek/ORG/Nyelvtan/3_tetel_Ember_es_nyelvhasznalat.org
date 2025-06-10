@@ -1,61 +1,61 @@
 * 3. Tétel: Ember és nyelvhasználat
 
-** 1. A jel, a jelrendszerek a nyelvi és nem nyelvi közlésben
+** 1. A jel, a  *jelrendszerek* a nyelvi és nem nyelvi közlésben
 
 *** A jel fogalma
-A jel valamilyen érzékelhető dolog (hang, mozdulat, kép, stb.), amely egy másik dologra utal. Közvetítő szerepet tölt be a valóság és az ember tudata között.
+A jel valamilyen *érzékelhető dolog (hang, mozdulat, kép, stb.),* amely egy *másik dologra utal.* *Közvetítő szerepet tölt be* a valóság és az *ember tudata között.*
 
 *** A jel részei
-1. Jelölő: A jel fizikai megjelenési formája (pl. szó, kép, hang).
-2. Jelölt: Az a jelentés vagy dolog, amire a jel utal.
+1. *Jelölő*: A jel *fizikai megjelenési formája (pl. szó, kép, hang).*
+2. *Jelölt*: Az a *jelentés vagy dolog,* amire a *jel utal.*
 
 *** Jelrendszerek
 - A jelek nem magukban léteznek, hanem *rendszert alkotnak.*
-- A kommunikációs helyzetben a jelek együttese segíti a megértést.
+- A kommunikációs helyzetben a jelek együttese *segíti a megértést.*
 
 *** Nyelvi jelek
-- A nyelv az egyik legösszetettebb jelrendszer.
-- A nyelvi jelek önkényesek (arbitráriusak): nincs természetes kapcsolat a jelölő és a jelölt között (pl. a "fa" szó és a valódi fa között nincs közvetlen kapcsolat).
+- A nyelv az egyik *legösszetettebb jelrendszer.*
+- A nyelvi jelek *önkényesek* (arbitráriusak): nincs természetes kapcsolat a jelölő és a jelölt között (pl. a "fa" szó és a valódi fa között *nincs közvetlen kapcsolat).*
 
 *** Nem nyelvi jelek
-- *Természetes jelek*: Olyan jelek, amelyek ok-okozati kapcsolatban állnak a jelölt dologgal (pl. a füst jelezi a tüzet).
-- *Mesterséges jelek*: Az emberek által létrehozott jelek (pl. közlekedési táblák, piktogramok).
+- *Természetes jelek*: Olyan jelek, amelyek *ok-okozati kapcsolatban* állnak a jelölt dologgal (pl. a *füst jelezi a tüzet*).
+- *Mesterséges jelek*: Az* emberek által létrehozott* jelek (pl. *közlekedési táblák*, piktogramok).
 
 *** A közlésformák
-- *Nyelvi közlés*: Beszéd, írás (pl. elmondunk valamit, levelet írunk).
-- *Nem nyelvi közlés*: Mimika, gesztusok, testbeszéd, vizuális jelek (pl. integetés, mosoly, közlekedési jelzések).
-- *Paralingvisztikai jelek*: A nyelvi közléshez kapcsolódó, de nem nyelvi jelek (hanghordozás, hangerő, hanglejtés).
+- *Nyelvi közlés*: *Beszéd, írás* (pl. elmondunk valamit, levelet írunk).
+- *Nem nyelvi közlés*: *Mimika, gesztusok, testbeszéd, vizuális jelek* (pl. integetés, mosoly, közlekedési jelzések).
+- *Paralingvisztikai jelek*: A nyelvi közléshez *kapcsolódó, de nem nyelvi jelek* (*hanghordozás, hangerő, hanglejtés*).
 
 *** Összegzés
-A kommunikáció során a nyelvi és nem nyelvi jelek együttesen működnek.
-A nem nyelvi jelek sokszor segítik vagy kiegészítik a nyelvi közlést.
+A kommunikáció során a *nyelvi és nem nyelvi jelek együttesen működnek.* *(verbális és non verbális a másik megnevezése.)*
+A *nem nyelvi* jelek sokszor *segítik vagy kiegészítik a nyelvi közlést.*
 
 ** 2. Egynyelvű szótárak
 
 *** Az egynyelvű szótár fogalma
-Olyan szótár, amely adott nyelv szavait magyarázza meg ugyanazon a nyelven.
-Nem fordít, hanem értelmez.
+Olyan *szótár*, amely *adott nyelv szavait magyarázza meg ugyanazon a nyelven.*
+Nem fordít, hanem *értelmez.*
 
 *** Főbb típusai
-1. *Értelmező szótár*: A szavak jelentését, használatát, szófaját, kiejtését, helyesírását mutatja be.
+1. *Értelmező szótár*: A szavak *jelentését*, *használatát*, *szófaját*, *kiejtését*, *helyesírását* mutatja be.
    - Pl. Magyar Értelmező Kéziszótár (ÉKSZ), Akadémiai Értelmező Szótár.
-2. *Szinonimaszótár*: Hasonló jelentésű szavakat gyűjt össze.
+2. *Szinonimaszótár*: *Hasonló jelentésű szavakat* gyűjt össze.
    - Pl. Magyar szinonimaszótár.
-3. *Ellentétszótár (antonimaszótár)*: Ellentétes jelentésű szavakat mutat be.
-4. *Frazeológiai szótár*: Állandósult szókapcsolatok, szólások, közmondások értelmezése.
-5. *Nyelvhelyességi szótár*: A nyelvhelyesség kérdéseiben segít eligazodni.
-6. *Tudományos vagy szaknyelvi szótárak*: Bizonyos tudományágak szakkifejezéseit magyarázza (pl. orvosi, jogi szótárak).
+3. *Ellentétszótár (antonimaszótár)*: *Ellentétes jelentésű szavakat* mutat be.
+4. *Frazeológiai szótár*: Állandósult *szókapcsolatok,* *szólások,* *közmondások* értelmezése.
+5. *Nyelvhelyességi szótár: A *nyelvhelyesség kérdéseiben segít eligazodni.*
+6. *Tudományos vagy szaknyelvi szótárak*: Bizonyos *tudományágak szakkifejezéseit magyarázza* (pl. orvosi, jogi szótárak).
 
 *** Felhasználási területe
-- Szövegértés segítése.
-- Szókincsbővítés.
-- Nyelvhelyesség, helyesírás ellenőrzése.
+- *Szövegértés* segítése.
+- *Szókincsbővítés.*
+- *Nyelvhelyesség, helyesírás ellenőrzése.*
 - Stílusbeli árnyalatok megismerése.
 
 *** Digitális egynyelvű szótárak
-- Online változatban is elérhetők.
+- *Online változatban is elérhetők.*
 - Pl. Akadémiai Kiadó online szótárai, szotar.net, MTA Nyelvtudományi Intézet szótárai.
 
 *** Összegzés
-Az egynyelvű szótárak segítik a nyelv pontos és helyes használatát.
+Az egynyelvű szótárak *segítik a nyelv pontos és helyes használatát.*
 Hasznosak mind az anyanyelvi beszélők, mind a nyelvet tanulók számára.
