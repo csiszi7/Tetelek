@@ -1,42 +1,41 @@
 #+TITLE: 4. tétel A nyelvi rendszerről
 #+AUTHOR: Gyenes Béla
 #+LANGUAGE: hu
-A nyelv rendszerszerű felépítésű, szabályok és egységek hálózataként
-működik. A nyelvi rendszer lehetővé teszi a gondolatok, érzelmek és
-információk pontos közlését, értelmezését. A nyelv különböző szintekből
-épül fel: hangok, morfémák, szavak, szószerkezetek, mondatok, szövegek.
+A nyelv rendszerszerű felépítésű, *szabályok és egységek hálózataként
+működik.* A nyelvi rendszer *lehetővé teszi a gondolatok, érzelmek és
+információk pontos közlését, értelmezését.* A nyelv különböző *szintekből
+épül fel:* *hangok, morfémák, szavak, szószerkezetek, mondatok, szövegek.*
 Ezek egymással összefüggnek és szabályok szerint szerveződnek.
 
-1. A hangkapcsolódási szabályosságok típusai és a helyesírás
-összefüggése
+1. A hangkapcsolódási szabályosságok típusai és a helyesírás összefüggése
 
-A magyar nyelvben a hangok nem tetszőlegesen kapcsolódnak egymáshoz --
-hangképzési és kiejtési szabályok befolyásolják őket. Ezek közül a
+A magyar nyelvben a hangok *nem tetszőlegesen kapcsolódnak egymáshoz* --
+*hangképzési és kiejtési szabályok* befolyásolják őket. Ezek közül a
 legfontosabbak:
 
 - Hangrend: A szavakban a magánhangzók magas (pl. e, i) vagy mély (pl.
-a, o) jellege meghatározza a toldalék alakját (pl. házban -- kertben).\\
-- Illeszkedés: A toldalékok hangrendben illeszkednek az alapszóhoz.\\
+a, o) *jellege meghatározza a toldalék alakját* (pl. házban -- kertben).\\
+- Illeszkedés: A toldalékok *hangrendben illeszkednek az alapszóhoz.*\\
 - Hanghasadás és hasonulás: Egyes hangok megváltozhatnak vagy
 összeolvadnak (pl. összead → [öszead]; színpad → [szímbad]).\\
 - Rövid és hosszú hangok helyesírása: A kiejtett hosszúságnak
 megfelelően kell írni (pl. hat -- hatt).
 
-Ezek a szabályok a helyesírást is befolyásolják, hiszen a kiejtés
-alapján történő írás mellett szabályokat is követünk (pl. „dzsungel”
+Ezek *a szabályok a helyesírást is befolyásolják*, hiszen a kiejtés
+alapján történő írás mellett *szabályokat is követünk* (pl. „dzsungel”
 helyesírása nem a hangzás alapján történik, hanem szabály szerint).
 
 2. Morfémák, szóelemek szerepe és helyes használata
 
-A morféma a nyelv legkisebb jelentéshordozó egysége. Fajtái:
+A morféma a nyelv *legkisebb jelentéshordozó egysége.* Fajtái:
 
-- Tőmorféma: a szó alapja (pl. könyv).\\
-- Képző: új szót alkot, megváltoztathatja a szó jelentését vagy szófaját
+- Tőmorféma: a *szó alapja* (pl. könyv).\\
+- Képző: *új szót alkot*, *megváltoztathatja a szó jelentését vagy szófaját*
 (pl. könyv → könyves).\\
-- Jel: nyelvtani viszonyokat fejez ki (pl. könyvek).\\
-- Rag: mondatbeli szerepet mutat (pl. könyvekben).
+- Jel: *nyelvtani viszonyokat fejez ki* (pl. könyvek).\\
+- Rag: *mondatbeli szerepet* mutat (pl. könyvekben).
 
-A szóalak tehát több morfémából épülhet fel: tanul + t + am → tanultam
+A szóalak tehát *több morfémából épülhet fel*: *pl.: tanul + t + am → tanultam*
 
 A szószerkezetek (pl. jelzős szerkezet: „piros alma”) is ezekből a
 szóalakokból épülnek fel, és csak akkor működnek helyesen, ha a
@@ -47,7 +46,7 @@ szóelemek megfelelően kapcsolódnak.
 A magyar szavakat szófajok szerint csoportosítjuk. Három fő csoportot
 különböztetünk meg:
 
-a) Alapszófajok (önálló jelentéssel rendelkeznek, mondatrészek
+a) *Alapszófajok* (*önálló jelentéssel rendelkeznek*, mondatrészek
 lehetnek):\\
 - Főnév (pl. könyv, asztal)\\
 - Melléknév (pl. szép, piros)\\
@@ -55,7 +54,7 @@ lehetnek):\\
 - Számnév (pl. három, negyedik)\\
 - Névmás (pl. ő, ilyen, amelyik)
 
-b) Viszonyszók (nyelvtani viszonyt, logikai kapcsolatot fejeznek ki,
+b) Viszonyszók (nyelvtani viszonyt, *logikai kapcsolatot fejeznek ki,*
 önálló mondatrész nem lehet):\\
 - Névelő (a, az, egy)\\
 - Igekötő (meg-, el-, vissza-)\\
@@ -63,8 +62,8 @@ b) Viszonyszók (nyelvtani viszonyt, logikai kapcsolatot fejeznek ki,
 - Módosítószó (talán, biztosan)\\
 - Segédige (fog, szokott, kell)
 
-c) Mondatszók (teljes mondatként is funkcionálnak, önálló kommunikációs
-egységek):\\
+c) Mondatszók (*teljes mondatként is funkcionálnak*, *önálló kommunikációs
+egységek*):\\
 - Indulatszók (hopp!, jaj!)\\
 - Igenlés, tagadás szavai (igen, nem)\\
 - Felkiáltások, kérdések (hahó!, na!)
@@ -72,31 +71,31 @@ egységek):\\
 4. Az egyszerű és az összetett mondatok felismerése. Mondatok elemzése
 szerkezeti vázlattal
 
-Egyszerű mondat: egyetlen állítmánya van.\\
+Egyszerű mondat: *egyetlen állítmánya van.*\\
 Példa: A diák tanul.\\
-Szerkezeti vázlata: Alany (A) -- Állítmány (Á)
+Szerkezeti vázlata: *Alany (A) -- Állítmány (Á)*
 
-Összetett mondat: több állítmányt tartalmaz, lehet:
+Összetett mondat: *több állítmányt tartalmaz*, lehet:
 
-- Mellérendelő (a tagmondatok egyenrangúak):\\
+- Mellérendelő (a *tagmondatok egyenrangúak*):\\
 Pl. Tanultam, de nem értettem meg.\\
-Kapcsolat: ellentétes
+*Kapcsolat: ellentétes*
 
 - Alárendelő (egy tagmondat a másik mondatrészét bővíti):\\
 Pl. Azt mondta, hogy eljön.\\
-Kapcsolat: társi
+*Kapcsolat: társi*
 
 Szerkezeti vázlat példa -- alárendelő mondat:\\
 Főmondat: Azt mondta\\
 ​|\\
 Mellékmondat: hogy eljön
 
-A mondatok elemzéséhez mindig meg kell keresni az állítmányokat, és ezek
-számától függően dönthetünk az egyszerű vagy összetett szerkezetről.
+A mondatok elemzéséhez mindig *meg kell keresni az állítmányokat*, és ezek
+*számától függően dönthetünk az egyszerű vagy összetett szerkezetről.*
 
 Összegzés
 
-A nyelvi rendszer szabályai biztosítják a megértést és a
-kifejezőkészséget. A hangkapcsolódások, morfémák, szófajok és
-mondatszerkezetek mind szoros összefüggésben állnak a helyesírással, a
-mondatalkotással és a kommunikáció hatékonyságával.
+A nyelvi rendszer szabályai *biztosítják a megértést* és a
+*kifejezőkészséget.* A hangkapcsolódások, morfémák, szófajok és
+mondatszerkezetek mind *szoros összefüggésben állnak a helyesírással, a
+mondatalkotással és a kommunikáció hatékonyságával.*
