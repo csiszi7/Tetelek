@@ -2,10 +2,10 @@
 #+AUTHOR: Gyenes Béla
 #+LANGUAGE: hu
 
-A *szövegértés* és *szövegfeldolgozás* alapvető kompetenciák a tanulás
-és a mindennapi élet során. Ezek a készségek elengedhetetlenek ahhoz,
-hogy az egyén hatékonyan tudjon információt szerezni, értelmezni és
-felhasználni különféle kontextusokban -- legyen szó iskolai
+A *szövegértés* és *szövegfeldolgozás* alapvető kompetenciák a *tanulás*
+és a *mindennapi élet során*. Ezek a készségek elengedhetetlenek ahhoz,
+hogy az egyén hatékonyan tudjon *információt szerezni*, *értelmezni* és
+*felhasználni* különféle kontextusokban -- legyen szó iskolai
 tanulmányokról, munkahelyi feladatokról vagy hivatalos ügyintézésről.
 
 *Szövegértés, szövegfeldolgozás technikái, olvasási típusok és
@@ -13,37 +13,37 @@ stratégiák*
 
 A szövegértés több szinten valósul meg:
 
-1. *Szó szerinti megértés* -- a szöveg információinak pontos
-   értelmezése.
+1. *Szó szerinti megértés* -- a szöveg információinak *pontos
+   értelmezése*.
 
-2. *Értelmező megértés* -- az olvasó összefüggéseket ismer fel,
-   következtetéseket von le.
+2. *Értelmező megértés* -- az olvasó *összefüggéseket ismer fel*,
+   *következtetéseket von le*.
 
-3. *Kritikai megértés* -- az olvasó értékeli, véleményezi a szöveget,
+3. *Kritikai megértés* -- az olvasó értékeli, *véleményezi a szöveget*,
    állítást fogalmaz meg.
 
 *Olvasási típusok:*
 
-- *Átfutó (szkennelő) olvasás:* célja gyors információkeresés, például
-  adat vagy név megtalálása.
+- *Átfutó (szkennelő) olvasás:* célja gyors *információkeresés*, például
+  *adat vagy név megtalálása*.
 
-- *Áttekintő (szkimming) olvasás:* a szöveg fő gondolatainak gyors
-  felismerése.
+- *Áttekintő (szkimming) olvasás:* a szöveg *fő gondolatainak gyors
+  felismerése*.
 
-- *Alapos, értelmező olvasás:* mélyebb megértést céloz, részletek
+- *Alapos, értelmező olvasás:* mélyebb *megértést* céloz, részletek
   elemzésével.
 
 *Olvasási stratégiák:*
 
-- *Előzetes ismeretek aktiválása:* az olvasás előtt a meglévő tudás
-  mozgósítása.
+- *Előzetes ismeretek aktiválása:* az olvasás előtt a *meglévő tudás
+  mozgósítása.*
 
-- *Kérdések megfogalmazása:* segít a fókuszált olvasásban.
+- *Kérdések megfogalmazása:* segít a *fókuszált olvasásban*.
 
 - *Jegyzetelés, vázlatkészítés:* a megértést és a felidézést segíti.
 
-- *Összefoglalás, reflektálás:* a szöveg lényegének megfogalmazása saját
-  szavakkal.
+- *Összefoglalás, reflektálás:* a szöveg *lényegének megfogalmazása saját
+  szavakkal*.
 
 *A továbbtanuláshoz, illetve a munka világához szükséges szövegtípusok*
 
@@ -53,23 +53,23 @@ használata kulcsfontosságú.
 
 *1. Önéletrajzok:*
 
-- *Kronologikus önéletrajz:* időrendi sorrendben mutatja be a
+- *Kronologikus önéletrajz:* *időrendi sorrendben* mutatja be a
   tanulmányokat, munkatapasztalatot.
 
-- *Funkcionális önéletrajz:* készségek és tapasztalatok szerint
+- *Funkcionális önéletrajz:* *készségek és tapasztalatok* szerint
   csoportosít.
 
 - *Europass önéletrajz:* egységes, európai szabvány szerint készülő
-  dokumentum, nemzetközi használatra is alkalmas.
+  dokumentum, *nemzetközi használatra* is alkalmas.
 
 *2. Motivációs levél:*\\
-Célja, hogy a jelentkező személyre szabottan bemutassa, miért szeretne
-adott helyen tanulni vagy dolgozni, és miért lenne alkalmas a pozícióra.
+Célja, hogy a jelentkező személyre szabottan bemutassa, *miért szeretne
+adott helyen tanulni vagy dolgozni*, és *miért lenne alkalmas* a pozícióra.
 
 *3. Hivatalos levelek:*
 
-- *Jelentkezés, kérvény, panaszlevél, információkérés:* ezek szigorú
-  formai és tartalmi szabályokat követnek (megszólítás, tárgyalás,
+- *Jelentkezés, kérvény, panaszlevél, információkérés:* ezek *szigorú
+  formai és tartalmi szabályokat követnek* (megszólítás, tárgyalás,
   lezárás, aláírás).
 
 - *Elektronikus hivatalos kommunikáció:* e-mail formátumban is megfelelő
