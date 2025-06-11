@@ -9,61 +9,61 @@ nyelvi érintkezésre
 :PROPERTIES:
 :CUSTOM_ID: az-információs-társadalom-fogalma
 :END:
-Az információs társadalom olyan korszakot jelöl, ahol az információ
+Az információs társadalom olyan korszakot jelöl, ahol az *információ
 előállítása, feldolgozása, tárolása, továbbítása és felhasználása válik
-a gazdaság, a társadalom és a kultúra legfontosabb tényezőjévé. Ebben a
-társadalomban a digitális technológia, különösen az internet és az
-okoseszközök, központi szerepet töltenek be.
+a gazdaság, a társadalom és a kultúra legfontosabb tényezőjévé*. Ebben a
+társadalomban a digitális technológia, különösen az *internet és az
+okoseszközök, központi szerepet töltenek be*.
 
 * 2. A digitális kommunikáció jellemzői
 :PROPERTIES:
 :CUSTOM_ID: a-digitális-kommunikáció-jellemzői
 :END:
-- Gyorsaság és azonnaliság\\
-- Rövidített, tömör üzenetek\\
-- Emotikonszimbólumok, emojik\\
+- *Gyorsaság* és azonnaliság\\
+- Rövidített, *tömör üzenetek*\\
+- Emotikonszimbólumok, *emojik*\\
 - Multimodalitás\\
-- Szinkron és aszinkron kommunikáció
+- *Szinkron és aszinkron kommunikáció*
 
 * 3. Hatások a nyelvhasználatra
 :PROPERTIES:
 :CUSTOM_ID: hatások-a-nyelvhasználatra
 :END:
-- Új szavak, kifejezések megjelenése (pl. posztol, lájkol, megoszt)\\
+- *Új szavak*, *kifejezések* megjelenése (pl. posztol, lájkol, megoszt)\\
 - Anglicizmusok elterjedése\\
-- Hibák és pongyola nyelvhasználat terjedése\\
-- Rövidítések, betűszavak (pl. LOL, OMG, BTW)\\
-- Kreativitás és játékosság (mémek, szóalkotások)
+- *Hibák* és *pongyola nyelvhasználat* terjedése\\
+- *Rövidítések*, betűszavak (pl. LOL, OMG, BTW)\\
+- *Kreativitás* és játékosság (*mémek, szóalkotások*)
 
 * 4. Hatások a nyelvi érintkezésre
 :PROPERTIES:
-:CUSTOM_ID: hatások-a-nyelvi-érintkezésre
+:CUSTOM_ID: hatások-a-nyelvi-
 :END:
-- Folyamatos kapcsolattartás lehetősége\\
+- Folyamatos *kapcsolattartás lehetősége*\\
 - Formális és informális regiszterek keveredése\\
-- Nonverbális jelek hiánya → új jelek (emojik, GIF-ek)\\
-- Társalgási szabályok átalakulása
+- Nonverbális jelek hiánya → *új jelek* (*emojik, GIF-ek*)\\
+- *Társalgási szabályok átalakulása*
 
 * 5. Pozitív és negatív hatások
 :PROPERTIES:
 :CUSTOM_ID: pozitív-és-negatív-hatások
 :END:
 Pozitív:\\
-- Új kommunikációs lehetőségek\\
-- Nyelvi rugalmasság és kreativitás\\
-- Könnyebb kapcsolattartás\\
+- *Új kommunikációs lehetőségek*\\
+- Nyelvi *rugalmasság és kreativitás*\\
+- *Könnyebb kapcsolattartás*\\
 \\
 Negatív:\\
-- Csökkenő nyelvi igényesség\\
-- Elidegenedés, személytelen kapcsolatok\\
-- Félreértések nonverbális jelek hiánya miatt
+- *Csökkenő nyelvi igényesség*\\
+- *Elidegenedés*, személytelen kapcsolatok\\
+- *Félreértések* nonverbális jelek hiánya miatt
 
 * 6. Összegzés
 :PROPERTIES:
 :CUSTOM_ID: összegzés
 :END:
-Az információs társadalom gyökeresen átalakította a nyelvhasználatot és
-a nyelvi érintkezés formáit. A digitális kommunikációban új nyelvi
-jelenségek, szavak és kommunikációs normák jöttek létre. A változások
+Az információs társadalom *gyökeresen átalakította a nyelvhasználatot* és
+a *nyelvi érintkezés formáit*. A digitális kommunikációban *új nyelvi
+jelenségek, szavak és kommunikációs normák jöttek létre*. A változások
 természetesek, de fontos odafigyelni az igényes nyelvhasználatra is,
 különösen hivatalos helyzetekben.
