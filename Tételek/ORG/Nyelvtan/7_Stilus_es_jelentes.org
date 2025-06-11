@@ -6,59 +6,59 @@
 :PROPERTIES:
 :CUSTOM_ID: szóképek-toposzok
 :END:
-A szóképek olyan nyelvi eszközök, amelyek a szavak megszokott
-jelentésétől való eltéréssel fejeznek ki tartalmat, gyakran
-érzékletesebbé, érzelmileg hatásosabbá téve a mondanivalót.
+A *szóképek* azaz *toposzok* olyan nyelvi eszközök, amelyek a szavak *megszokott
+jelentésétől való eltéréssel fejeznek ki tartalmat*, gyakran
+érzékletesebbé, *érzelmileg hatásosabbá téve a mondanivalót*.
 
-• Metafora -- Két dolog azonosítása valamilyen közös tulajdonság alapján
+• Metafora -- *Két dolog azonosítása* valamilyen *közös tulajdonság alapján*
 (pl. „az idő vasfoga”).
 
-• Hasonlat -- Két dolog összehasonlítása (pl. „fehér volt, mint a hó”).
+• Hasonlat -- *Két dolog összehasonlítása* (pl. „fehér volt, mint a hó”).
 
 • Metonímia -- Névcsere érintkezésen alapulva (pl. „hallgatom
 Beethovent”, azaz a művét).
 
-• Szinesztézia -- Különböző érzékterületek összekapcsolása (pl. „édes
+• Szinesztézia -- Különböző *érzékterületek összekapcsolása* (pl. „édes
 hang”).
 
-• Szimbólum -- Olyan kép, amely egy elvont fogalmat jelenít meg (pl. a
+• Szimbólum -- Olyan kép, amely egy *elvont fogalmat jelenít meg* (pl. a
 kereszt mint a hit szimbóluma).
 
-• Allegória -- Hosszabban kibontott metafora vagy szimbólum, gyakran
-egész műre kiterjedően.
+• Allegória -- Hosszabban kibontott *metafora vagy szimbólum*, *gyakran
+egész műre kiterjedően.*
 
-A szóképek főként az irodalmi szövegekben jelennek meg
-kifejezőeszközként, a jelentés árnyalására, mélyítésére, gyakran
-esztétikai céllal.
+A szóképek főként az *irodalmi szövegekben jelennek meg
+kifejezőeszközként*, a jelentés árnyalására, mélyítésére, gyakran
+*esztétikai céllal*.
 
 * 2. Az egyszerűbb alakzatok köznyelvi és irodalmi szövegekben
 :PROPERTIES:
 :CUSTOM_ID: az-egyszerűbb-alakzatok-köznyelvi-és-irodalmi-szövegekben
 :END:
-Az alakzatok a nyelvi formákat érintő stilisztikai eszközök. Nem a
-szavak jelentését, hanem azok elrendezését, ismétlését, szerkezetét
-módosítják.
+Az alakzatok a *nyelvi formákat érintő stilisztikai eszközök*. Nem a
+szavak jelentését, hanem azok *elrendezését, ismétlését, szerkezetét
+módosítják.*
 
 Gyakori egyszerűbb alakzatok:
 
-• Ismétlés -- Egy szó vagy szerkezet újra felbukkan (pl. „Látom, látom,
+• Ismétlés -- Egy szó vagy szerkezet *újra felbukkan* (pl. „Látom, látom,
 látom...”).
 
-• Felsorolás -- Tartalmi rokon elemek sorolása (pl. „sír, zokog,
+• Felsorolás -- Tartalmi *rokon elemek sorolása* (pl. „sír, zokog,
 jajgat”).
 
-• Párhuzam -- Két gondolat szerkezeti megfeleltetése (pl. „A víz zúg, a
+• Párhuzam -- *Két gondolat* szerkezeti *megfeleltetése* (pl. „A víz zúg, a
 szél süvít.”).
 
-• Ellentét -- Két ellentétes tartalom szembeállítása (pl. „élni akar,
+• Ellentét -- *Két ellentétes tartalom szembeállítása* (pl. „élni akar,
 halni kész”).
 
-• Kihagyás (ellipszis) -- Hiányos, de érthető szerkezet (pl. „Nem én,
+• Kihagyás (ellipszis) -- *Hiányos, de érthető szerkezet* (pl. „Nem én,
 te!”).
 
-• Kérdés (retorikai kérdés) -- Választ nem igénylő, nyomatékosító kérdés
+• Kérdés (retorikai kérdés) -- Választ nem igénylő, *nyomatékosító kérdés*
 (pl. „Ki ne szeretné a szabadságot?”).
 
-Ezek a köznyelvben is gyakran előfordulnak, például a retorikai kérdések
-vagy ismétlések a hétköznapi beszédben is kifejezőek. Az irodalomban
-viszont tudatosabb, művészi célú használatuk jellemző.
+Ezek a köznyelvben is *gyakran előfordulnak, például a retorikai kérdések
+vagy ismétlések a hétköznapi beszédben is kifejezőek*. Az *irodalomban*
+viszont tudatosabb, *művészi célú használatuk jellemző.*
