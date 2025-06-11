@@ -8,48 +8,48 @@
 :END:
 A retorika az ékesszólás tudománya, amely az ókor óta foglalkozik a
 meggyőző beszéd módszereivel és szabályaival. Célja, hogy a beszélő
-hatékonyan tudja közvetíteni gondolatait, és képes legyen meggyőzni
-hallgatóságát.
+*hatékonyan tudja közvetíteni gondolatait*, és képes legyen *meggyőzni
+hallgatóságát*.
 
-A beszéd megalkotásának folyamata klasszikusan öt lépésből áll (ez az
+A beszéd megalkotásának folyamata klasszikusan *öt lépésből áll* (ez az
 ars rhetorica része):
 
-1. Inventio (feltárás, anyaggyűjtés)\\
-Ebben a szakaszban a beszélő összegyűjti az érveket, tényeket, példákat
-és ellenérveket. Cél, hogy átfogó képet kapjon a témáról, és megtalálja
-a leghatásosabb tartalmi elemeket.
+1. Inventio (feltárás, *anyaggyűjtés*)\\
+Ebben a szakaszban a beszélő *összegyűjti az érveket, tényeket, példákat
+és ellenérveket*. Cél, hogy átfogó képet kapjon a témáról, és *megtalálja
+a leghatásosabb tartalmi elemeket*.
 
-2. Dispositio (elrendezés)\\
-Az összegyűjtött anyag logikus, átgondolt szerkezetbe rendezése. A
+2. Dispositio (*elrendezés*)\\
+Az összegyűjtött anyag logikus, átgondolt *szerkezetbe rendezése*. A
 klasszikus retorika három fő részt különít el:\\
-- Bevezetés (exordium): figyelemfelkeltés, érdeklődés felkeltése, a
+- *Bevezetés* (exordium): *figyelemfelkeltés*, érdeklődés felkeltése, a
 beszélő hitelességének megteremtése.\\
-- Tárgyalás (narratio + argumentatio): a téma kifejtése, érvek és
+- *Tárgyalás* (narratio + argumentatio): a *téma kifejtése*, érvek és
 ellenérvek ismertetése, bizonyítás.\\
-- Befejezés (peroratio): összefoglalás, nyomatékosítás, érzelmi hatás
-kiváltása.
+- Befejezés (peroratio): *összefoglalás*, nyomatékosítás, *érzelmi hatás
+kiváltása*.
 
-3. Elocutio (megfogalmazás)\\
-A gondolatok nyelvi megformálása. Fontos a stílus, szóhasználat,
-világosság, kifejezőerő és a retorikai eszközök (pl. metafora, kérdés,
+3. Elocutio (*megfogalmazás*)\\
+A gondolatok *nyelvi megformálása*. Fontos a *stílus*, *szóhasználat*,
+világosság, *kifejezőerő* és a *retorikai eszközök* (pl. metafora, kérdés,
 párhuzam) használata.
 
-4. Memoria (megtanulás)\\
-A beszéd gyakorlása, memorizálása. Ez segít abban, hogy előadás közben a
+4. Memoria (*megtanulás*)\\
+A beszéd *gyakorlása*, *memorizálása*. Ez segít abban, hogy előadás közben a
 beszélő magabiztos legyen, és ne függjön teljes mértékben a
 jegyzeteitől.
 
 5. Actio (előadás, megszólalás)\\
-A beszéd előadása. Itt számít a testbeszéd, a hanghordozás, a
-szemkontaktus, a hangsúly és az előadásmód. A hiteles, magabiztos
+A *beszéd előadása*. Itt számít a *testbeszéd*, a *hanghordozás*, a
+*szemkontaktus*, a *hangsúly* és az *előadásmód*. A hiteles, magabiztos
 fellépés növeli a meggyőzőerőt.
 
 ** A kulturált véleménynyilvánítás és a vita szabályai, gyakorlata
 :PROPERTIES:
 :CUSTOM_ID: a-kulturált-véleménynyilvánítás-és-a-vita-szabályai-gyakorlata
 :END:
-A kulturált véleménynyilvánítás alapja a tiszteletteljes, érvekre épülő
-kommunikáció, amely figyelembe veszi a másik fél nézőpontját is. Néhány
+A kulturált véleménynyilvánítás *alapja a tiszteletteljes, érvekre épülő
+kommunikáció*, amely *figyelembe veszi a másik fél nézőpontját is*. Néhány
 alapvető szabály:\\
 - Hallgassuk meg a másik felet félbeszakítás nélkül.\\
 - Ne minősítsük a másik személyét, csak az elhangzott érvekre
@@ -64,21 +64,21 @@ megoldás megtalálása.
 :PROPERTIES:
 :CUSTOM_ID: a-befolyásolás-módszerei
 :END:
-A retorika egyik célja a hallgatóság befolyásolása, amely lehet érzelmi
-vagy racionális alapon nyugvó:\\
+A retorika egyik célja a *hallgatóság befolyásolása*, amely lehet *érzelmi*
+vagy *racionális* alapon nyugvó:\\
 - Érzelmi befolyásolás (pathos): történetek, példák, humor vagy megrázó
-képek segítségével érzelmi reakció kiváltása.\\
-- Racionális befolyásolás (logos): logikus érvek, adatok, statisztikák,
-ok-okozati összefüggések alkalmazása.\\
-- Etikai meggyőzés (ethos): a beszélő hitelessége, szakmai tudása,
-erkölcsi megbízhatósága alapozza meg a meggyőzőerőt.
+képek segítségével *érzelmi reakció kiváltása*.\\
+- Racionális befolyásolás (logos): *logikus érvek*, adatok, statisztikák,
+*ok-okozati összefüggések alkalmazása*.\\
+- Etikai meggyőzés (ethos): a *beszélő hitelessége*, szakmai *tudása*,
+*erkölcsi megbízhatósága* alapozza meg a meggyőzőerőt.
 
 ** Összegzés
 :PROPERTIES:
 :CUSTOM_ID: összegzés
 :END:
 A retorika nem csupán az iskolai vagy politikai beszédek területén
-fontos, hanem a hétköznapi kommunikációban is segít abban, hogy
-véleményünket világosan, meggyőzően és tiszteletteljesen tudjuk
-kifejezni. A jó beszéd tudatosan épül fel, és figyelembe veszi a
-hallgatóság igényeit, a helyzetet és a célokat.
+fontos, hanem a *hétköznapi kommunikációban is segít* abban, hogy
+*véleményünket világosan, meggyőzően és tiszteletteljesen tudjuk
+kifejezni*. A *jó beszéd tudatosan épül fel*, és *figyelembe veszi a
+hallgatóság igényeit, a helyzetet és a célokat*.
