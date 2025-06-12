@@ -1,4 +1,4 @@
-#+TITLE: A nemzeti tematika Vörösmarty életművében
+#+TITLE: 10. A nemzeti tematika Vörösmarty életművében
 #+AUTHOR: Gyenes Béla
 #+LANGUAGE: hu
 * Áttekintés
