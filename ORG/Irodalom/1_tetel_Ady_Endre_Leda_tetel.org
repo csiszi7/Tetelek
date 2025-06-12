@@ -6,26 +6,26 @@
 :PROPERTIES:
 :CUSTOM_ID: bevezetés
 :END:
-Ady Endre (1877--1919) a 20. század egyik legjelentősebb magyar költője. Lírájában fontos szerepet töltött be a Léda-motívum, amely Diósy Ödönné Brüll Adél alakjához kötődik. Léda nemcsak szerelmi múzsa volt számára, hanem költői szimbólum is.
+Ady Endre (1877--1919) a *20. század egyik legjelentősebb magyar költője*. *Lírájában* fontos szerepet töltött be a *Léda-motívum*, amely Diósy Ödönné *Brüll Adél* alakjához kötődik. Léda nemcsak szerelmi múzsa volt számára, hanem *költői szimbólum is*.
 
 ** 2. Tér és idő
 :PROPERTIES:
 :CUSTOM_ID: tér-és-idő
 :END:
-- Időszak: Ady és Léda kapcsolata 1903--1912 között tartott.
-- Helyszín: Elsősorban Párizs, de a Léda-versekben gyakran megjelenik az éjszaka, a bálterem, a szalonok világa, illetve a természet (kert, virágmotívumok).
+- Időszak: Ady és Léda kapcsolata *1903--1912* között tartott.
+- Helyszín: Elsősorban *Párizs*, de a Léda-versekben gyakran megjelenik az *éjszaka*, a *bálterem*, a szalonok világa, illetve a *természet (kert, virágmotívumok)*.
 
-Ez a korszak Ady modern költészetének születése, a francia szimbolizmus hatása is érződik.
+Ez a korszak Ady modern költészetének születése, a *francia szimbolizmus hatása* is érződik.
 
 ** 3. A Léda-motívum jellemzői
 :PROPERTIES:
 :CUSTOM_ID: a-léda-motívum-jellemzői
 :END:
-- A Léda-versekben a szerelem ellentmondásos: szenvedélyes, de fájdalmas is.
-- Gyakori az ambivalencia: szeretet és gyűlölet, vágy és kiábrándulás egyszerre jelenik meg.
-- Léda a végzet asszonya (femme fatale): bűnre csábít, de egyben felemeli a költőt.
-- A költő és Léda viszonya harcos, szenvedélyes kapcsolat: a modern szerelem megtestesítője.
-- A Léda-motívum mögött ott van a modern ember magányossága, a vágy a teljességre, amit azonban lehetetlen elérni.
+- A Léda-versekben a *szerelem* ellentmondásos: *szenvedélyes, de fájdalmas is*.
+- Gyakori az ambivalencia: *szeretet és gyűlölet*, *vágy* és *kiábrándulás* egyszerre jelenik meg.
+- Léda a végzet asszonya (femme fatale): *bűnre csábít*, de egyben *felemeli* a költőt.
+- A költő és Léda viszonya harcos, szenvedélyes kapcsolat: a *modern szerelem megtestesítője*.
+- A Léda-motívum mögött ott van a modern *ember magányossága*, a *vágy* a teljességre, amit *azonban lehetetlen elérni*.
 
 ** 4. Fontosabb Léda-versek
 :PROPERTIES:
@@ -34,15 +34,15 @@ Ez a korszak Ady modern költészetének születése, a francia szimbolizmus hat
 | Cím                   | Év   | Jellemzők                                                          |
 |-----------------------+------+--------------------------------------------------------------------|
 | Lédával a bálban      | 1907 | A társasági élet felszínessége és a szerelmi szenvedély ellentéte. |
-| Léda a kertben        | 1906 | Idillikus, mégis melankolikus kép a szerelemről.                   |
-| Elbocsátó szép üzenet | 1909 | A Léda-korszak lezárása, a szakítás fájdalmas verse.               |
-| Léda lelke            | 1906 | A női lélek titokzatossága, kiismerhetetlensége.                   |
-| Őrizem a szemed       | 1910 | A múló szerelem emlékének megőrzése, nosztalgia.                   |
+| Léda a kertben        | 1906 | *Idillikus*, mégis melankolikus *kép a szerelemről*.                   |
+| Elbocsátó szép üzenet | 1909 | A Léda-korszak lezárása, a *szakítás* fájdalmas verse.               |
+| Léda lelke            | 1906 | A *női lélek titokzatossága*, kiismerhetetlensége.                   |
+| Őrizem a szemed       | 1910 | A múló szerelem emlékének megőrzése, *nosztalgia*.                   |
 
 ** 5. Összegzés
 :PROPERTIES:
 :CUSTOM_ID: összegzés
 :END:
-A Léda-motívum Ady költészetében a modern szerelem drámáját jeleníti meg. Nem egyszerű szerelmi líra, hanem az örök emberi vágy és szenvedés szimbóluma. A Léda-versek a költő belső harcát is tükrözik: a szabadságvágy és a kötődés közötti őrlődést.
+A Léda-motívum Ady költészetében a *modern szerelem drámáját jeleníti meg*. Nem egyszerű szerelmi líra, hanem az *örök emberi vágy és szenvedés szimbóluma*. A Léda-versek a költő belső harcát is tükrözik: a *szabadságvágy és a kötődés* közötti őrlődést.
 
-A Léda-motívum Ady modern lírájának egyik legfontosabb témája, mely túlmutat a személyes szerelmi élményen, és általános emberi kérdéseket fogalmaz meg.
+A Léda-motívum Ady modern lírájának egyik legfontosabb témája, mely túlmutat a személyes szerelmi élményen, és *általános emberi kérdéseket fogalmaz meg*.
