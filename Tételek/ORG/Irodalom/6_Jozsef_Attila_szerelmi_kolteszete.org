@@ -8,19 +8,19 @@ a Nyugattal. Történelmi háttér: két világháború közti Magyarország, ga
 politikai instabilitás. Életének végén pszichoanalitikus kezelések, elmagányosodás, tragikus
 halál.
 
-** 2. A szerelmi líra sajátosságai -- vágy és szenvedés kettőssége
+* A szerelmi líra sajátosságai -- vágy és szenvedés kettőssége
 :PROPERTIES:
 :CUSTOM_ID: a-szerelmi-líra-sajátosságai-vágy-és-szenvedés-kettőssége
 :END:
-József Attila szerelmi verseiben az érzelem mindig összekapcsolódik az
+- József Attila szerelmi verseiben az érzelem mindig összekapcsolódik az
 önazonosság, az elhagyatottság és a létkérdések problematikájával.
 
-A szerelem nála gyakran idealizált, de elérhetetlen állapot.
+- A szerelem nála gyakran idealizált, de elérhetetlen állapot.
 
-A magány, a kiszolgáltatottság és a pszichés törékenység mélyen
+- A magány, a kiszolgáltatottság és a pszichés törékenység mélyen
 átszínezi a szerelmi élményeket.
 
-** 3. Fontosabb kapcsolatok és ezek hatása a költészetére
+* Fontosabb kapcsolatok és ezek hatása a költészetére
 :PROPERTIES:
 :CUSTOM_ID: fontosabb-kapcsolatok-és-ezek-hatása-a-költészetére
 :END:
@@ -30,7 +30,7 @@ különböző korszakokban ihlették.
 A szerelmek sokszor beteljesületlenek vagy rövid életűek voltak, ami
 felerősítette a költőben az elhagyatottság érzését.
 
-** 4. Kiemelt versek elemzése
+* Kiemelt versek elemzése
 :PROPERTIES:
 :CUSTOM_ID: kiemelt-versek-elemzése
 :END:
@@ -57,19 +57,19 @@ Fiatalon írt vers, nem tipikus szerelmi költemény, de az elutasítottság
 
 A tér itt is fontos: a "csavargóélet", az otthontalanság érzete.
 
-** Kozmutza Flórához írt versek (pl. Flóra, Talán eltűnök hirtelen...)
+* Kozmutza Flórához írt versek (pl. Flóra, Talán eltűnök hirtelen...)
 :PROPERTIES:
 :CUSTOM_ID: kozmutza-flórához-írt-versek-pl.-flóra-talán-eltűnök-hirtelen...
 :END:
-A kapcsolatok vége felé íródott költemények már rezignáltabb
+- A kapcsolatok vége felé íródott költemények már rezignáltabb
 hangvételűek.
 
-Időbeliség: a mulandóság tudata, a halál közelsége.
+- Időbeliség: a mulandóság tudata, a halál közelsége.
 
-Térbeliség: a külvilág háttérbe szorul, a belső világ (lélek, emlékezés)
+- Térbeliség: a külvilág háttérbe szorul, a belső világ (lélek, emlékezés)
 kerül előtérbe.
 
-** 5. Összegzés -- A szerelmi líra jelentősége életművében
+* Összegzés -- A szerelmi líra jelentősége életművében
 :PROPERTIES:
 :CUSTOM_ID: összegzés-a-szerelmi-líra-jelentősége-életművében
 :END:
@@ -77,14 +77,14 @@ József Attila szerelmi költészete nem klasszikus értelemben vett
 szerelmi líra: nem a beteljesülést, hanem annak lehetetlenségét
 ábrázolja.
 
-A szerelem számára a megváltás lehetőségét jelenti -- de ez többnyire
+- A szerelem számára a megváltás lehetőségét jelenti -- de ez többnyire
 elérhetetlen marad.
 
-Lírájában a személyes sors, az egzisztenciális válság és a társadalmi
+- Lírájában a személyes sors, az egzisztenciális válság és a társadalmi
 háttér szorosan összefonódik.
 
-Időben: a szerelmi költészet végigkíséri életművét, de a harmincas
+- Időben: a szerelmi költészet végigkíséri életművét, de a harmincas
 években válik igazán meghatározóvá.
 
-Térben: a versek tere gyakran belső táj, az emberi lélek, de megjelenik
+- Térben: a versek tere gyakran belső táj, az emberi lélek, de megjelenik
 benne Budapest, a szegénység és a kitaszítottság helyszínei is.

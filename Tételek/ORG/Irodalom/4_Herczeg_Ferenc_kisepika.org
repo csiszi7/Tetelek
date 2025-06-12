@@ -3,43 +3,43 @@
 #+LANGUAGE: hu
 #+CATEGORY: hu_irodalom
 
-1. Bevezetés -- időbeli és térbeli elhelyezés\\
+* Bevezetés -- időbeli és térbeli elhelyezés
 Herczeg Ferenc (1863--1954) a 20. század első felének egyik legismertebb
 konzervatív írója, a századelő polgári-nemzeti irodalmának képviselője.
 A dualizmus korának végén és a Horthy-korszakban volt igazán népszerű.
 Művei gyakran visszatekintenek a múltba, különösen a dualizmus idejére,
-illetve a történelmi Magyarország világára.\\
-\\
-2. Herczeg Ferenc kisepikájának jellemzői\\
+illetve a történelmi Magyarország világára.
+
+* Herczeg Ferenc kisepikájának jellemzői
 - Témavilág: Műveiben gyakran szerepel a nemzeti történelem, a magyar
 úri osztály életformája, valamint az erkölcsi rend, hagyományok és
-társadalmi normák ütközése a modernizációval.\\
+társadalmi normák ütközése a modernizációval.
 - Stílus: Letisztult, klasszicizáló, visszafogott irónia jellemzi,
-nyelvezete elegáns, mértéktartó.\\
+nyelvezete elegáns, mértéktartó.
 - Narráció: Többnyire mindentudó elbeszélőt alkalmaz, aki kívülről,
-objektíven mutatja be a szereplőket és helyzeteket.\\
+objektíven mutatja be a szereplőket és helyzeteket.
 - Szereplők: Gyakoriak a tipizált alakok: becsületes, kissé naiv
-fiatalok, bölcs öregek, erkölcsileg kétes alakok.\\
-\\
-3. Fontosabb kisepikai művei\\
+fiatalok, bölcs öregek, erkölcsileg kétes alakok.
+
+* Fontosabb kisepikai művei
 - A gólkirály (novella): Szatirikus hangvételű írás a vidéki
 Magyarország és a modern sportvilág találkozásáról. A történet a
-társadalmi és kulturális különbségeket figurázza ki.\\
+társadalmi és kulturális különbségeket figurázza ki.
 - Pro Patria (elbeszélés): Az első világháború idején játszódó mű, amely
-a haza iránti hűség és az egyéni érdek konfliktusát mutatja be.\\
+a haza iránti hűség és az egyéni érdek konfliktusát mutatja be.
 - Párisi Napló (novelláskötet): A párizsi élet karikírozása, amelyben
 Herczeg iróniával ábrázolja a külföldi életmódot, szembeállítva azt a
-magyaros értékekkel.\\
-\\
-4. Művészi és társadalmi szerepe\\
+magyaros értékekkel.
+
+* Művészi és társadalmi szerepe
 - Herczeg műveiben a konzervatív értékrendet közvetíti, a rend és
-hagyomány mellett érvel.\\
+hagyomány mellett érvel.
 - Írásaiban gyakran megjelenik az "ideális múlt" képe, amelyet
-szembeállít a jelen hanyatló erkölcseivel.\\
+szembeállít a jelen hanyatló erkölcseivel.
 - Kisepikája nem a lélektani mélységekre koncentrál, hanem a cselekmény
-és a jellemábrázolás áll a középpontban.\\
-\\
-5. Összegzés\\
+és a jellemábrázolás áll a középpontban.
+
+* Összegzés
 Herczeg Ferenc kisepikája jelentős lenyomata a 20. század eleji magyar
 úri világ értékrendjének. Bár napjainkban kevésbé ismert, művei fontos
 kordokumentumként szolgálnak, és stílusa kiváló példája a klasszikus,
