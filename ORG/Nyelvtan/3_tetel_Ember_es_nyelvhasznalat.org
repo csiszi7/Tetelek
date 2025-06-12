@@ -1,3 +1,5 @@
+
+
 * 3. Tétel: Ember és nyelvhasználat
 
 ** 1. A jel, a  *jelrendszerek* a nyelvi és nem nyelvi közlésben

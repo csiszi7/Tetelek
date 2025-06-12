@@ -1,7 +1,7 @@
 * Nyelvtan tételek
 - [[1_Kommunikacio.org][1. Kommunikacio.org]]
 - [[2_A magyar_nyelv_tortenete.org][2. A magyar_nyelv_tortenete.org]]
-- [[3_tetel_Ember_es_nyelvhasznalat.org][3. tetel_Ember_es_nyelvhasznalat.org]]
+- [[3_tetel_Ember_es_nyelvhasznalat.org][3. Ember_es_nyelvhasznalat.org]]
 - [[4_A_nyelvi_rendszer_tetel.org][4. A_nyelvi_rendszer_tetel.org]]
 - [[5_A_szoveg.org][5. A_szoveg.org]]
 - [[6_Retorika_alapjai.org][6. Retorika_alapjai.org]]
