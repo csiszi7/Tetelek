@@ -2,35 +2,19 @@
 #+AUTHOR: Gyenes Béla
 #+LANGUAGE: hu
 
-Jókai Mór (1825--1904) a 19. századi magyar prózairodalom egyik
-legismertebb és legtermékenyebb alkotója, a romantikus regényírás
-mestere, de műveiben a realizmus irányzata is jelentős szerepet kap.
-Regényeiben gyakran jelenik meg a kor társadalmi valósága, ugyanakkor
-idealizált hősök, meseszerű események és szenvedélyes érzelmek jellemzik
-írásait.
+Jókai Mór (1825--1904) a 19. századi magyar prózairodalom egyik legismertebb és legtermékenyebb alkotója, a romantikus regényírás mestere, de műveiben a realizmus irányzata is jelentős szerepet kap. Regényeiben gyakran jelenik meg a kor társadalmi valósága, ugyanakkor idealizált hősök, meseszerű események és szenvedélyes érzelmek jellemzik írásait.
 
 * Jókai világa a romantika tükrében:
-- Romantikus hősök és konfliktusok: Hősei gyakran kivételes emberek,
-eszményített jellemek (pl. „Az arany ember” Tímár Mihálya), akik belső
-vívódásokkal, erkölcsi dilemmákkal néznek szembe.
-- Szélsőséges érzelmek: A szerelem, hősiesség, árulás és önfeláldozás
-motívumai hangsúlyosak.
-- Meseszerű elemek: Elrejtett kincsek, különleges szigetek, rejtélyes
-helyszínek -- a valóságtól elrugaszkodó, meseszerű történetvezetés.
-- Idealizált világkép: Jókai gyakran az eszményit keresi, pozitív
-jövőképet rajzol, sokszor a nemzeti öntudat és szabadságeszmény vezérli
-(pl. „Egy magyar nábob”, „A kőszívű ember fiai”).
+- Romantikus hősök és konfliktusok: Hősei gyakran kivételes emberek, eszményített jellemek (pl. „Az arany ember” Tímár Mihálya), akik belső vívódásokkal, erkölcsi dilemmákkal néznek szembe.
+- Szélsőséges érzelmek: A szerelem, hősiesség, árulás és önfeláldozás motívumai hangsúlyosak.
+- Meseszerű elemek: Elrejtett kincsek, különleges szigetek, rejtélyes helyszínek -- a valóságtól elrugaszkodó, meseszerű történetvezetés.
+- Idealizált világkép: Jókai gyakran az eszményit keresi, pozitív jövőképet rajzol, sokszor a nemzeti öntudat és szabadságeszmény vezérli (pl. „Egy magyar nábob”, „A kőszívű ember fiai”).
 
 * A realizmus hatása Jókai műveiben:
-- Társadalmi valóságábrázolás: Jókai regényeiben pontos képet fest a 19.
-századi magyar társadalomról, a reformkortól a dualizmus koráig.
-- Társadalmi rétegek és konfliktusok: Megjelenik az arisztokrácia, a
-polgárság, a parasztság, és ezek egymáshoz való viszonya (pl. „A kőszívű
-ember fiai”).
-- Jellemábrázolás: Bár sokszor idealizált, a szereplők viselkedése mégis
-árnyaltabbá válik, belső fejlődésen mennek keresztül.
-- Aprólékos leírások: Jókai szenvedélyesen ír tájakról, öltözékekről,
-tárgyakról, ami a realizmus jegyében áll.
+- Társadalmi valóságábrázolás: Jókai regényeiben pontos képet fest a 19. századi magyar társadalomról, a reformkortól a dualizmus koráig.
+- Társadalmi rétegek és konfliktusok: Megjelenik az arisztokrácia, a polgárság, a parasztság, és ezek egymáshoz való viszonya (pl. „A kőszívű ember fiai”).
+- Jellemábrázolás: Bár sokszor idealizált, a szereplők viselkedése mégis árnyaltabbá válik, belső fejlődésen mennek keresztül.
+- Aprólékos leírások: Jókai szenvedélyesen ír tájakról, öltözékekről, tárgyakról, ami a realizmus jegyében áll.
 
 * Idő és tér Jókai regényeiben:
 
@@ -38,44 +22,25 @@ tárgyakról, ami a realizmus jegyében áll.
 - Történelmi időhöz kötöttség: Gyakran konkrét történelmi események köré
 építi regényeit (pl. 1848--49-es szabadságharc „A kőszívű ember
 fiai”-ban).
-- Időbeliség szerepe a cselekményben: A múlt, jelen és jövő
-összefonódása fontos szerepet játszik, gyakoriak a visszaemlékezések,
-előrevetítések.
-- Történelmi hűség és fikció egyensúlya: A történelmi tényeket gyakran
-romantikus elemekkel egészíti ki, nem a történelem hiteles
-rekonstruálása a célja, hanem annak irodalmi újraalkotása.
+- Időbeliség szerepe a cselekményben: A múlt, jelen és jövő összefonódása fontos szerepet játszik, gyakoriak a visszaemlékezések, előrevetítések.
+- Történelmi hűség és fikció egyensúlya: A történelmi tényeket gyakran romantikus elemekkel egészíti ki, nem a történelem hiteles rekonstruálása a célja, hanem annak irodalmi újraalkotása.
 
 ** Tér:
-- Valós és fiktív helyszínek keveredése: Jókai pontosan ismeri és leírja
-a magyar vidéket, Budapestet, Balaton-felvidéket, de emellett
-képzeletbeli helyszínek is megjelennek (pl. „Senki szigete” Az arany
-emberben).
-- Tér idealizálása: A „Senki szigete” a nyugalom és erkölcsi tisztaság
-szimbóluma, míg a város gyakran a romlás, képmutatás helye.
-- Tér mint szimbolikus jelentés: A helyszínek gyakran a szereplők belső
-világát tükrözik, a tér az erkölcsi és lelki állapotok metaforája.
+- Valós és fiktív helyszínek keveredése: Jókai pontosan ismeri és leírja a magyar vidéket, Budapestet, Balaton-felvidéket, de emellett képzeletbeli helyszínek is megjelennek (pl. „Senki szigete” Az arany emberben).
+- Tér idealizálása: A „Senki szigete” a nyugalom és erkölcsi tisztaság szimbóluma, míg a város gyakran a romlás, képmutatás helye.
+- Tér mint szimbolikus jelentés: A helyszínek gyakran a szereplők belső világát tükrözik, a tér az erkölcsi és lelki állapotok metaforája.
 
 * Példák regényekből:
 
 ** „Az arany ember”
-- Tímár Mihály kettős élete jól szemlélteti a romantika és realizmus
-kettősségét.
-- A „Senki szigete” a romantikus eszményt képviseli, míg a valós világ a
-társadalmi realitásokat.
-- A hős belső vívódása a romantikus lélek mélységét mutatja, miközben a
-korabeli gazdasági és társadalmi élet realisztikusan van ábrázolva.
+- Tímár Mihály kettős élete jól szemlélteti a romantika és realizmus kettősségét.
+- A „Senki szigete” a romantikus eszményt képviseli, míg a valós világ a társadalmi realitásokat.
+- A hős belső vívódása a romantikus lélek mélységét mutatja, miközben a korabeli gazdasági és társadalmi élet realisztikusan van ábrázolva.
 
 ** „A kőszívű ember fiai”
 - A történelmi háttér (1848--49) realista alapot ad a regénynek.
-- A hősök viszont romantikus eszményeket képviselnek: hősiesség,
-hazaszeretet, áldozat.
+- A hősök viszont romantikus eszményeket képviselnek: hősiesség, hazaszeretet, áldozat.
 - Az idő és tér pontosan meghatározott, történelmi hitelességre törekvő.
 
 * Összegzés:
-Jókai Mór munkássága jól példázza a romantika és a realizmus
-összefonódását a 19. századi magyar irodalomban. Műveiben az idealizmus,
-a meseszerűség és az érzelmi túlfűtöttség mellett megjelenik a kor
-valóságának pontos és árnyalt ábrázolása. Az idő és tér kezelése
-komplex, sokszor szimbolikus jelentéssel bír, és nagyban hozzájárul a
-regények művészi értékéhez. Így Jókai művei egyszerre szórakoztató
-olvasmányok és értékes korrajzok is.
+Jókai Mór munkássága jól példázza a romantika és a realizmus összefonódását a 19. századi magyar irodalomban. Műveiben az idealizmus, a meseszerűség és az érzelmi túlfűtöttség mellett megjelenik a kor valóságának pontos és árnyalt ábrázolása. Az idő és tér kezelése komplex, sokszor szimbolikus jelentéssel bír, és nagyban hozzájárul a regények művészi értékéhez. Így Jókai művei egyszerre szórakoztató olvasmányok és értékes korrajzok is.

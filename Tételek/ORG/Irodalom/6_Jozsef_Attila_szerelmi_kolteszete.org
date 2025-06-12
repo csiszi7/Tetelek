@@ -2,33 +2,23 @@
 #+LANGUAGE: hu
 #+CATEGORY: hu_irodalom
 
-József Attila (1905--1937) a 20. századi magyar irodalom egyik
-legnagyobb költője. Nehéz gyermekkor: árvaság, nyomor, intézeti nevelés. Később egyetemek, baloldali mozgalmak, kapcsolatok az avantgárddal, majd
-a Nyugattal. Történelmi háttér: két világháború közti Magyarország, gazdasági válság,
-politikai instabilitás. Életének végén pszichoanalitikus kezelések, elmagányosodás, tragikus
-halál.
+József Attila (1905--1937) a 20. századi magyar irodalom egyik legnagyobb költője. Nehéz gyermekkor: árvaság, nyomor, intézeti nevelés. Később egyetemek, baloldali mozgalmak, kapcsolatok az avantgárddal, majd a Nyugattal. Történelmi háttér: két világháború közti Magyarország, gazdasági válság, politikai instabilitás. Életének végén pszichoanalitikus kezelések, elmagányosodás, tragikus halál.
 
 * A szerelmi líra sajátosságai -- vágy és szenvedés kettőssége
 :PROPERTIES:
 :CUSTOM_ID: a-szerelmi-líra-sajátosságai-vágy-és-szenvedés-kettőssége
 :END:
-- József Attila szerelmi verseiben az érzelem mindig összekapcsolódik az
-önazonosság, az elhagyatottság és a létkérdések problematikájával.
-
+- József Attila szerelmi verseiben az érzelem mindig összekapcsolódik az önazonosság, az elhagyatottság és a létkérdések problematikájával.
 - A szerelem nála gyakran idealizált, de elérhetetlen állapot.
-
-- A magány, a kiszolgáltatottság és a pszichés törékenység mélyen
-átszínezi a szerelmi élményeket.
+- A magány, a kiszolgáltatottság és a pszichés törékenység mélyen átszínezi a szerelmi élményeket.
 
 * Fontosabb kapcsolatok és ezek hatása a költészetére
 :PROPERTIES:
 :CUSTOM_ID: fontosabb-kapcsolatok-és-ezek-hatása-a-költészetére
 :END:
-Vágó Márta, Kozmutza Flóra, Szántó Judit -- különböző nőalakok, akik
-különböző korszakokban ihlették.
+Vágó Márta, Kozmutza Flóra, Szántó Judit -- különböző nőalakok, akik különböző korszakokban ihlették.
 
-A szerelmek sokszor beteljesületlenek vagy rövid életűek voltak, ami
-felerősítette a költőben az elhagyatottság érzését.
+A szerelmek sokszor beteljesületlenek vagy rövid életűek voltak, ami felerősítette a költőben az elhagyatottság érzését.
 
 * Kiemelt versek elemzése
 :PROPERTIES:
@@ -38,15 +28,13 @@ felerősítette a költőben az elhagyatottság érzését.
 :PROPERTIES:
 :CUSTOM_ID: óda-1933
 :END:
-Kozmutza Flóra ihlette.
+- Kozmutza Flóra ihlette.
 
-Modern szerelmi vers: testi vágy, lelki áhítat, filozófiai mélység.
+- Modern szerelmi vers: testi vágy, lelki áhítat, filozófiai mélység.
 
-A versben megjelenik a szerelmi kapcsolat metafizikai dimenziója: a
-szeretett nőben az örök harmóniát, a világ rendjét keresi.
+- A versben megjelenik a szerelmi kapcsolat metafizikai dimenziója: a szeretett nőben az örök harmóniát, a világ rendjét keresi.
 
-A vers térben és időben is emelkedett: a konkrét testi valóságból az
-univerzális létkérdésekig emelkedik.
+- A vers térben és időben is emelkedett: a konkrét testi valóságból az univerzális létkérdésekig emelkedik.
 
 ** Tiszta szívvel (1925)
 :PROPERTIES:
@@ -61,30 +49,22 @@ A tér itt is fontos: a "csavargóélet", az otthontalanság érzete.
 :PROPERTIES:
 :CUSTOM_ID: kozmutza-flórához-írt-versek-pl.-flóra-talán-eltűnök-hirtelen...
 :END:
-- A kapcsolatok vége felé íródott költemények már rezignáltabb
-hangvételűek.
+- A kapcsolatok vége felé íródott költemények már rezignáltabb hangvételűek.
 
 - Időbeliség: a mulandóság tudata, a halál közelsége.
 
-- Térbeliség: a külvilág háttérbe szorul, a belső világ (lélek, emlékezés)
-kerül előtérbe.
+- Térbeliség: a külvilág háttérbe szorul, a belső világ (lélek, emlékezés) kerül előtérbe.
 
 * Összegzés -- A szerelmi líra jelentősége életművében
 :PROPERTIES:
 :CUSTOM_ID: összegzés-a-szerelmi-líra-jelentősége-életművében
 :END:
-József Attila szerelmi költészete nem klasszikus értelemben vett
-szerelmi líra: nem a beteljesülést, hanem annak lehetetlenségét
-ábrázolja.
+József Attila szerelmi költészete nem klasszikus értelemben vett szerelmi líra: nem a beteljesülést, hanem annak lehetetlenségét ábrázolja.
 
-- A szerelem számára a megváltás lehetőségét jelenti -- de ez többnyire
-elérhetetlen marad.
+- A szerelem számára a megváltás lehetőségét jelenti -- de ez többnyire elérhetetlen marad.
 
-- Lírájában a személyes sors, az egzisztenciális válság és a társadalmi
-háttér szorosan összefonódik.
+- Lírájában a személyes sors, az egzisztenciális válság és a társadalmi háttér szorosan összefonódik.
 
-- Időben: a szerelmi költészet végigkíséri életművét, de a harmincas
-években válik igazán meghatározóvá.
+- Időben: a szerelmi költészet végigkíséri életművét, de a harmincas években válik igazán meghatározóvá.
 
-- Térben: a versek tere gyakran belső táj, az emberi lélek, de megjelenik
-benne Budapest, a szegénység és a kitaszítottság helyszínei is.
+- Térben: a versek tere gyakran belső táj, az emberi lélek, de megjelenik benne Budapest, a szegénység és a kitaszítottság helyszínei is.

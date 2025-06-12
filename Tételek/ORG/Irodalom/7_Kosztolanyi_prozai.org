@@ -48,39 +48,28 @@ emlékező elbeszélő szerepe, és a líraiság.
 - Az idő gyakran melankolikus hangulatot teremt -- a múló idő szomorúsága, a vissza nem térő múlt fájdalma.
 
 - Esti Kornél figurája maga is az idő kettősségét hordozza: a felnőtt író és a benne élő gyermeki én találkozása.
-
+  
 * Példák az életműből
 :PROPERTIES:
 :CUSTOM_ID: példák-az-életműből
 :END:
-- Esti Kornél-ciklus:
+** Esti Kornél-ciklus:
 
-- Az epizodikus szerkezetű novellákban a tér és idő folyton változik --
-a szereplő utazásai külső és belső utakat is jelentenek.
+- Az epizodikus szerkezetű novellákban a tér és idő folyton változik -- a szereplő utazásai külső és belső utakat is jelentenek.
 
-- Az elbeszélés gyakran álomszerű, a tér és idő bizonytalan, ezzel
-tükrözve az identitáskeresés és önreflexió folyamatát.
+- Az elbeszélés gyakran álomszerű, a tér és idő bizonytalan, ezzel tükrözve az identitáskeresés és önreflexió folyamatát.
 
-- Néró, a véres költő (regény):
+** Néró, a véres költő (regény):
+- Bár történelmi regény, az időérzékelés itt is szubjektív: Néró őrületének előrehaladtával a tér és idő is egyre torzultabbá válik.
 
-- Bár történelmi regény, az időérzékelés itt is szubjektív: Néró
-őrületének előrehaladtával a tér és idő is egyre torzultabbá válik.
+** Édes Anna (regény):
 
-- Édes Anna (regény):
+- A zárt terek (pl. Vizyék lakása) a társadalmi hierarchia és az elnyomás szimbólumai.
 
-- A zárt terek (pl. Vizyék lakása) a társadalmi hierarchia és az
-elnyomás szimbólumai.
-
-- Az idő itt is fontos: a Tanácsköztársaság bukása utáni társadalmi
-bizonytalanság korát mutatja be, amely az egyéni sorsokra is hatással
-van.
+- Az idő itt is fontos: a Tanácsköztársaság bukása utáni társadalmi bizonytalanság korát mutatja be, amely az egyéni sorsokra is hatással van.
 
 * Összegzés
 :PROPERTIES:
 :CUSTOM_ID: összegzés
 :END:
-Kosztolányi Dezső prózájában a tér és az idő nem pusztán a történetek
-háttérdíszletei, hanem az elbeszélés lényegi elemei. Általuk érzékelteti
-a belső világ változásait, az emlékezés fájdalmát és az identitáskeresés
-folyamatát. Lírai, gyakran nosztalgikus prózája mélyen személyes és
-egyetemes kérdéseket is felvet, időtlen érvényességgel.
+Kosztolányi Dezső prózájában a tér és az idő nem pusztán a történetek háttérdíszletei, hanem az elbeszélés lényegi elemei. Általuk érzékelteti a belső világ változásait, az emlékezés fájdalmát és az identitáskeresés folyamatát. Lírai, gyakran nosztalgikus prózája mélyen személyes és egyetemes kérdéseket is felvet, időtlen érvényességgel.
