@@ -6,20 +6,20 @@
 :PROPERTIES:
 :CUSTOM_ID: tételmondat
 :END:
-Kosztolányi Dezső prózájában a tér és az idő nem csupán a cselekmény keretéül szolgál, hanem a belső világok, a lelkiállapotok, az emlékezés és az identitás feltárásának eszköze is, különösen a gyermekkori terek és az emlékező elbeszélésmód révén.
+Kosztolányi Dezső prózájában a tér és az idő nem csupán a cselekmény keretéül szolgál, hanem a *belső világok, a lelkiállapotok, az emlékezés és az identitás feltárásának eszköze* is, különösen a gyermekkori terek és az *emlékező elbeszélésmód* révén.
 
 * Bevezetés -- Kosztolányi mint prózaíró
 :PROPERTIES:
 :CUSTOM_ID: bevezetés-kosztolányi-mint-prózaíró
 :END:
-- Kosztolányi Dezső (1885--1936) a Nyugat első nemzedékének meghatározó
+- Kosztolányi Dezső (1885--1936) a *Nyugat első nemzedékének (1908)* meghatározó
 alakja.
 
-- Bár elsősorban költőként ismert, prózai munkássága (regények,
+- Bár elsősorban költőként ismert, *prózai munkássága* (regények,
 novellák, esszék) is kiemelkedő.
 
 - Prózájára jellemző az introspektív (befelé figyelő) hangvétel, az
-emlékező elbeszélő szerepe, és a líraiság.
+*emlékező elbeszélő szerepe, és a líraiság*.
 
 * A tér szerepe Kosztolányi prózájában
 :PROPERTIES:
@@ -27,27 +27,27 @@ emlékező elbeszélő szerepe, és a líraiság.
 :END:
 - A tér gyakran belső térként, a lélek kivetüléseként jelenik meg.
 
-- Szabadka, a szülőváros, visszatérő helyszín, gyakran idealizált, gyermekkorra emlékeztető térként.
+- *Szabadka*, a szülőváros, *visszatérő helyszín, gyakran idealizált, gyermekkorra* emlékeztető térként.
 
-- A gyermekkori ház, iskola, utca -- a nosztalgia, a veszteség és az elmúlás szimbólumai.
+- A *gyermekkori ház, iskola, utca* -- a *nosztalgia, a veszteség és az elmúlás* szimbólumai.
 
-- Példa: Esti Kornél novellák -- a tér sokszor álomszerű, elmosódott határokkal bír, az emlékezés szubjektív természetét tükrözve.
+- Példa: *Esti Kornél* novellák -- a tér sokszor *álomszerű*, elmosódott határokkal bír, az *emlékezés szubjektív természetét tükrözve*.
 
-- A terek gyakran bezártságot vagy elidegenedést is kifejeznek -- pl. iskolai pad, hivatalok, kisvárosi szobák.
+- A terek gyakran *bezártságot vagy elidegenedést* is kifejeznek -- pl. iskolai pad, hivatalok, kisvárosi szobák.
 
 * Az idő szerepe
 :PROPERTIES:
 :CUSTOM_ID: az-idő-szerepe
 :END:
-- Kosztolányinál az idő nem lineáris, hanem szubjektív, emlékezésen keresztül feltárt.
+- Kosztolányinál az *idő nem lineáris, hanem szubjektív*, *emlékezésen keresztül feltárt*.
 
-- A jelen és múlt összemosódik, különösen az elbeszélő emlékezése során.
+- A *jelen és múlt összemosódik*, különösen az *elbeszélő emlékezése* során.
 
-- Fontos az elmúlás, a gyermeki ártatlanság elvesztésének motívuma.
+- Fontos az *elmúlás, a gyermeki ártatlanság* elvesztésének motívuma.
 
-- Az idő gyakran melankolikus hangulatot teremt -- a múló idő szomorúsága, a vissza nem térő múlt fájdalma.
+- Az idő gyakran melankolikus hangulatot teremt -- a *múló idő szomorúsága, a vissza nem térő múlt* fájdalma.
 
-- Esti Kornél figurája maga is az idő kettősségét hordozza: a felnőtt író és a benne élő gyermeki én találkozása.
+- Esti *Kornél figurája maga is az idő kettősségét hordozza*: a felnőtt író és a *benne élő gyermeki én találkozása*.
   
 * Példák az életműből
 :PROPERTIES:
@@ -55,21 +55,21 @@ emlékező elbeszélő szerepe, és a líraiság.
 :END:
 ** Esti Kornél-ciklus:
 
-- Az epizodikus szerkezetű novellákban a tér és idő folyton változik -- a szereplő utazásai külső és belső utakat is jelentenek.
+- Az *epizodikus szerkezetű* novellákban a tér és idő folyton változik -- a *szereplő utazásai külső és belső utakat is jelentenek*.
 
-- Az elbeszélés gyakran álomszerű, a tér és idő bizonytalan, ezzel tükrözve az identitáskeresés és önreflexió folyamatát.
+- Az *elbeszélés gyakran álomszerű*, a tér és idő bizonytalan, ezzel tükrözve az identitáskeresés és *önreflexió* folyamatát.
 
 ** Néró, a véres költő (regény):
-- Bár történelmi regény, az időérzékelés itt is szubjektív: Néró őrületének előrehaladtával a tér és idő is egyre torzultabbá válik.
+- Bár *történelmi regény, az időérzékelés itt is szubjektív*: Néró őrületének előrehaladtával a *tér és idő is egyre torzultabbá válik*.
 
 ** Édes Anna (regény):
 
-- A zárt terek (pl. Vizyék lakása) a társadalmi hierarchia és az elnyomás szimbólumai.
+- A zárt terek (pl. Vizyék lakása) a *társadalmi hierarchia és az elnyomás szimbólumai*.
 
-- Az idő itt is fontos: a Tanácsköztársaság bukása utáni társadalmi bizonytalanság korát mutatja be, amely az egyéni sorsokra is hatással van.
+- Az idő itt is fontos: a *Tanácsköztársaság bukása utáni társadalmi bizonytalanság* korát mutatja be, amely az *egyéni sorsokra is hatással van*.
 
 * Összegzés
 :PROPERTIES:
 :CUSTOM_ID: összegzés
 :END:
-Kosztolányi Dezső prózájában a tér és az idő nem pusztán a történetek háttérdíszletei, hanem az elbeszélés lényegi elemei. Általuk érzékelteti a belső világ változásait, az emlékezés fájdalmát és az identitáskeresés folyamatát. Lírai, gyakran nosztalgikus prózája mélyen személyes és egyetemes kérdéseket is felvet, időtlen érvényességgel.
+Kosztolányi Dezső prózájában a *tér és az idő nem pusztán a történetek háttérdíszletei, hanem az elbeszélés lényegi elemei*. Általuk érzékelteti a *belső világ változásait*, az *emlékezés fájdalmát és az identitáskeresés folyamatát*. Lírai, gyakran nosztalgikus prózája *mélyen személyes és egyetemes kérdéseket is felvet*, időtlen érvényességgel.
