@@ -7,45 +7,45 @@
 :CUSTOM_ID: mikszáth-kálmán-élete-és-kora
 :END:
 - Élt: 1847--1910
-- Történelmi háttér: A dualizmus kori Magyarország (1867--1918), a polgárosodás és a nemzeti identitás keresésének időszaka.
-- Született: Szklabonya (ma Szlovákiában található)
-- Pályája: Újságíróként kezdte, majd a magyar politikai és irodalmi élet meghatározó alakja lett. Országgyűlési képviselő is volt.
-- Stílusa: Realista alapokon nyugvó, gyakran anekdotikus, humorral és iróniával átszőtt próza.
+- Történelmi háttér: A *dualizmus kori Magyarország (1867--1918)*, a *polgárosodás és a nemzeti identitás keresésének időszaka*.
+- Született: *Szklabonya* (ma *Szlovákiában* található)
+- Pályája: *Újságíróként kezdte*, majd a *magyar politikai és irodalmi élet meghatározó alakja lett*. *Országgyűlési képviselő* is volt.
+- Stílusa: *Realista alapokon* nyugvó, gyakran anekdotikus, *humorral és iróniával átszőtt próza*.
 
 * Mikszáth helye az irodalomban
 :PROPERTIES:
 :CUSTOM_ID: mikszáth-helye-az-irodalomban
 :END:
-- Realizmus és romantika határán mozog, de a novelláiban egyéni stílust alakított ki.
-- A népi anekdota, a szájhagyományos elbeszélés, a balladai tömörség és az újságírói megfigyelés sajátos elegye jellemzi.
-- A Tisza Kálmán-korszak és a kiegyezés utáni társadalmi problémák
-visszaköszönnek műveiben.
+- *Realizmus és romantika* határán mozog, de a *novelláiban egyéni stílust alakított ki*.
+- A népi anekdota, a *szájhagyományos elbeszélés*, a *balladai tömörség* és az újságírói megfigyelés sajátos elegye jellemzi.
+- A Tisza Kálmán-korszak és a kiegyezés utáni *társadalmi problémák*
+  visszaköszönnek műveiben.
 
 * A mikszáthi novella jellemzői
 :PROPERTIES:
 :CUSTOM_ID: a-mikszáthi-novella-jellemzői
 :END:
-- Anekdotikus elbeszélés: Rövid, csattanóra épülő történetek.
-- Tipikus alakok: A kisnemesség, a parasztság és a városi  figurái.
-- Társadalomkritika: Humoros, ironikus formában jelenik meg a társadalmi visszásságok bírálata.
-- Különös világ: Babonák, legendák, groteszk vagy misztikus elemek is megjelennek.
-- Stílus: Élőbeszédszerű, ízes nyelvezet, gyakran tájszavakkal.
+- *Anekdotikus elbeszélés*: *Rövid, csattanóra épülő történetek*.
+- Tipikus alakok: A *kisnemesség, a parasztság és a városi figurái*.
+- Társadalomkritika: *Humoros, ironikus* formában jelenik meg a *társadalmi visszásságok* bírálata.
+- Különös világ: *Babonák, legendák, groteszk vagy misztikus elemek* is megjelennek.
+- Stílus: Élőbeszédszerű, ízes nyelvezet, *gyakran tájszavakkal*.
 
 * Fontosabb novellái és témáik
 :PROPERTIES:
 :CUSTOM_ID: fontosabb-novellái-és-témáik
 :END:
-- „A néhai bárány” -- a vidéki társadalom igazságtalanságai, a kiszolgáltatott ember sorsa.
-- „Bede Anna tartozása” -- erkölcs, igazságérzet, női tisztesség, tragikus végkifejlettel.
-- „Az a fekete folt” -- a becsület, a társadalmi megítélés kérdése.
-- „A gózoni szűz” -- népi hiedelmek, szatirikus hangvétel, groteszk fordulat.
-- „Péri bácsi” -- korrupt politikai viszonyok szatirikus ábrázolása.
+- „A néhai bárány” -- a *vidéki társadalom igazságtalanságai*, a *kiszolgáltatott ember sorsa*.
+- „Bede Anna tartozása” -- *erkölcs, igazságérzet, női tisztesség, tragikus végkifejlettel*.
+- „Az a fekete folt” -- a *becsület, a társadalmi megítélés* kérdése.
+- „A gózoni szűz” -- *népi hiedelmek, szatirikus hangvétel*, groteszk fordulat.
+- „Péri bácsi” -- *korrupt politikai viszonyok szatirikus ábrázolása*.
 
 * Hatása és jelentősége
 :PROPERTIES:
 :CUSTOM_ID: hatása-és-jelentősége
 :END:
-- Mikszáth hidat képez Jókai romantikus világa és Móricz realista, naturalista ábrázolása között.
-- A magyar novella egyik klasszikus mestere, aki új minőséget vitt az anekdotikus prózába.
+- Mikszáth *hidat képez* *Jókai romantikus világa és Móricz realista, naturalista ábrázolása között*.
+- A magyar *novella* egyik *klasszikus mestere*, aki *új minőséget vitt az anekdotikus prózába*.
 - Művei máig olvasmányosak, sok esetben tananyagként is szerepelnek.
-- Nyelvi humora, emberábrázolása, észrevételei időtállóak.
+- Nyelvi *humora, emberábrázolása, észrevételei időtállóak*.
