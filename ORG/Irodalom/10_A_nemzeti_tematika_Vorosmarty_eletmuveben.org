@@ -3,66 +3,66 @@
 #+LANGUAGE: hu
 * Áttekintés
 - Életmű időhatára: 1810-es évektől 1855-ig  
-- Kulcsszó: a magyar nemzeti öntudat, a múlt dicsősége és a jövő reményeinek költői megfogalmazása  
-- Történelmi kontextus: reformkor, 1848–49-es forradalom és szabadságharc, Bach-korszak
+- Kulcsszó: a *magyar nemzeti öntudat*, a *múlt dicsősége és a jövő reményeinek költői megfogalmazása*  
+- Történelmi kontextus: *reformkor*, *1848–49-es forradalom és szabadságharc*, Bach-korszak
 
 * Történelmi és irodalmi háttér
-- Reformkori ébredés: a nemzeti kultúra megerősítése, művelődéspolitikai törekvések  
-- Romantikus nacionalizmus: a nemzeti múlt idealizálása, a közösségi öntudat költészeti formába öntése  
-- Vörösmarty szerepe: a fiatal költő mint a nemzeti érzelmek előharcosa, az akadémiai és politikai fórumokon való szereplés  
+- Reformkori ébredés: a *nemzeti kultúra megerősítése*, *művelődéspolitikai törekvések*  
+- Romantikus nacionalizmus: a *nemzeti múlt idealizálása*, a közösségi *öntudat költészeti formába öntése*  
+- Vörösmarty szerepe: a fiatal költő mint a *nemzeti érzelmek előharcosa*, az *akadémiai és politikai fórumokon* való *szereplés*  
 
 * Nemzeti tematika fő motívumai
 ** Haza és honvágy
-- A magyar táj és a szülőföld szeretete: festői tájképek, folyók, dombvidék, magyar puszta  
-- Honvágy–vándorlás kettőssége: a külföldi út élménye és a visszatérés vágya („Zalán futása”)  
-- Otthon és idegenség: a nemzeti identitás határainak megrajzolása  
+- A *magyar táj és a szülőföld szeretete*: festői *tájképek, folyók, dombvidék, magyar puszta*  
+- Honvágy–vándorlás kettőssége: a *külföldi út élménye és a visszatérés vágya („Zalán futása”)*  
+- Otthon és idegenség: a *nemzeti identitás határainak megrajzolása*  
 
 ** Nép és múlt
-- Őstörténeti mítoszok: a honfoglalás hőseitől az Árpádok koráig ívelő hagyomány  
-- A „nagy népregény”: nemzetregényes elemek Vörösmarty epikai műveiben  
-- A jó és a rossz generációk párhuzama: példák a nép erényeire és gyengeségeire („A vén cigány”)  
+- Őstörténeti mítoszok: a *honfoglalás hőseitől az Árpádok koráig ívelő hagyomány*  
+- A „nagy népregény”: *nemzetregényes elemek* Vörösmarty *epikai műveiben* 
+- A jó és a rossz *generációk párhuzama*: példák a *nép erényeire és gyengeségeire („A vén cigány”)* 
 
 ** Szabadság és sors
-- A szabadság eszméje: a forradalom előtti költői felhívás („A szabadsághoz”)  
-- A nemzet sorsa dramaturgiája: tragikus és reményteljes víziók váltakozása  
-- Erkölcsi tanítás: a közösség felelőssége, az egyéni áldozatvállalás fontossága  
+- A szabadság eszméje: a *forradalom előtti költői felhívás („A szabadsághoz”)*  
+- A nemzet sorsa dramaturgiája: *tragikus és reményteljes víziók váltakozása*  
+- Erkölcsi tanítás: a *közösség felelőssége*, az egyéni *áldozatvállalás fontossága*  
 
 ** Ünnep és rítus
-- Ünnepi költemények: nemzeti ünnepekhez kapcsolódó versek, himnikus szerkesztés  
-- Szertartásos forma: ismétlődő refrének, ünnepi szónoki elemek  
-- Közösségi élmény: a költő és olvasó közti összetartozás érzékeltetése  
+- Ünnepi költemények: *nemzeti ünnepekhez kapcsolódó versek*, himnikus szerkesztés  
+- Szertartásos forma: *ismétlődő refrének*, ünnepi *szónoki elemek*  
+- Közösségi élmény: a *költő és olvasó közti összetartozás* érzékeltetése  
 
 * Kulcsfontosságú művek és műfajok
 ** „Szózat” (1836)
-- Nemzeti himnusz jelleg: a magyar közösség ébredését szimbolizáló verssorok  
-- Megszólító forma: a „Halljátok!” és „Itt az idő” kiáltások drámai hatása  
-- Irodalmi és politikai hatás: a nemzeti érzelmek állandó megidézése  
+- Nemzeti *himnusz jelleg*: a *magyar közösség ébredését szimbolizáló verssorok*  
+- Megszólító forma: a „Halljátok!” és „Itt az idő” *kiáltások drámai hatása*  
+- Irodalmi és politikai hatás: a *nemzeti érzelmek* állandó *megidézése*  
 
 ** „A vén cigány” (1829)
-- Elbeszélő költemény: hegyvidéki legenda és népi hiedelem  
-- Erkölcsi tanulság: a közösség feddése, a lelkiismeret hangja  
-- Népi hangzás és romantikus hangvétel összefonódása  
+- Elbeszélő költemény: hegyvidéki *legenda és népi hiedelem*  
+- Erkölcsi tanulság: a közösség feddése, a *lelkiismeret hangja*  
+- *Népi* hangzás és *romantikus hangvétel* összefonódása  
 
 ** „Zalán futása” (1825)
-- Epikai költemény: honfoglaló őstörténet dramatikus jelenetei  
-- Nemzeti mítoszalkotás: a közösségi eredet és hősök mítosza  
-- Tragikus szálak: egyéni sors a törzsi közösség keretében  
+- Epikai költemény: *honfoglaló őstörténet* dramatikus jelenetei  
+- Nemzeti mítoszalkotás: a *közösségi eredet és a hősök mítosza*  
+- Tragikus szálak: egyéni *sors a törzsi közösség keretében*  
 
 ** Drámák és balladák
-- „Csongor és Tünde”: lélektanilag árnyalt tündérjáték, nemzeti mitológia szimbolikája  
-- „Árpádok” sorozat: történelmi tragédia, a nagy dinasztia felemelkedése és bukása  
-- Balladák: rövidebb elbeszélések, népies stílus és tragikus hang  
+- „Csongor és Tünde”: lélektanilag *árnyalt tündérjáték*, *nemzeti mitológia szimbolikája*  
+- „Árpádok” sorozat: *történelmi tragédia*, a *nagy dinasztia felemelkedése és bukása*  
+- Balladák: *rövidebb elbeszélések*, *népies stílus* és *tragikus hang*  
 
 ** Ünnepi és alkalmi versek
-- Nemzeti ünnepekre írt költemények: március 15., augusztus 20.  
-- Himnikus forma és ünnepi retorika: refrének, nagyformátumú képek  
+- Nemzeti ünnepekre írt költemények: *március 15.*, *augusztus 20.*  
+- Himnikus forma és ünnepi retorika: *refrének, nagyformátumú képek*  
 
 * Változó stílus és költői fejlődés
-- Korai romantika: lírai könnyedség, természeti leírások dominanciája  
-- Későbbi korszak: komolyabb, patetikus hangnem; a közösségi dráma fokozódó hangsúlya  
-- Szózat utáni korszak: forradalom élménye, remény és kiábrándulás kettőse  
+- Korai romantika: *lírai könnyedség*, *a természeti leírások dominálnak*  
+- Későbbi korszak: *komolyabb*, patetikus *hangnem*; a *közösségi dráma fokozódó hangsúlya*  
+- Szózat utáni korszak: *forradalom* élménye, *remény és kiábrándulás kettőse*  
 
 * Hatás és utóélet
-- Reformkori követői: Petőfi, Arany és a nemzeti líra továbbfejlesztése  
+- Reformkori követői: *Petőfi, Arany és a nemzeti líra továbbfejlesztése*  
 - 19–20. századi recepció: iskolai tananyag, énekkari műfaj, műdalok  
-- A nemzeti költészet klasszikusa: Vörösmarty központi szerepe a magyar irodalmi kánonban  
+- A nemzeti költészet klasszikusa: *Vörösmarty központi szerepe a magyar irodalmi kánonban*  
