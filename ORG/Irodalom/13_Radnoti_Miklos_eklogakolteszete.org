@@ -2,52 +2,52 @@
 #+AUTHOR: Gyenes Béla
 #+LANGUAGE: hu
 * Áttekintés
-- Keletkezés ideje: 1931–1944 között, ciklusokban és önálló darabokban  
-- Műfaj: ekloga – pásztori műfaj újraértelmezése modern kontextusban  
-- Cél: antik pásztorversek hangulatának és formavilágának felhasználása a személyes és kollektív sors tragikumának ábrázolására  
+- Keletkezés ideje: *1931–1944* között, ciklusokban és önálló darabokban  
+- Műfaj: *ekloga* – *pásztori műfaj* újraértelmezése *modern kontextusban*  
+- Cél: antik pásztorversek hangulatának és formavilágának felhasználása a *személyes és kollektív (zsidók) sors tragikumának ábrázolására*  
 * Témák és motívumok
 ** 1. Béke és nyugalom idealizálása
-- Egyszerű pásztori jelenetek: mező, juhnyáj, pásztorok közt zajló dialógusok  
-- Idillikus természetábrázolás: csend, alkony, enyhe fuvallat („Eklógák. Pásztorok sírva járnak”)  
-- Kontraszt: a külvilág békéje és a belső feszültség kettőssége  
+- Egyszerű pásztori jelenetek: *mező, juhnyáj, pásztorok* közt zajló dialógusok  
+- Idillikus természetábrázolás: *csend, alkonyat*, enyhe fuvallat („Eklógák. Pásztorok sírva járnak”)  
+- Kontraszt: a *külvilág békéje és a belső feszültség kettőssége*  
 
 ** 2. Háború árnyéka és üldöztetés
-- Rejtett fenyegetettség: a pásztori tér idilli képe alatt sejlik a háború és a gyűlölet  
-- Zsidósors allegóriája: számkivetettség, menekülés, védekezés („Hetedik ecloga”)  
+- Rejtett fenyegetettség: a pásztori tér idilli képe alatt sejlik a *háború és a gyűlölet*  
+- Zsidósors allegóriája: *számkivetettség, menekülés, védekezés („Hetedik ecloga”)*  
 - A pásztori dialógus mint politikai szimbólum: az elnyomott hangjátéka  
 
 ** 3. Barátság és társak emlékezete
-- Ady Endre és József Attila előtti tisztelgés: a költői örökség pásztori utalásai  
-- Katona- és társai emlékének beépítése: közösségi gyász és megőrzés motivuma („Nyolcadik ecloga”)  
+- *Ady Endre és József Attila előtti tisztelgés*: a költői örökség pásztori utalásai  
+- Katona- és társai emlékének beépítése: *közösségi gyász és megőrzés motivuma* („Nyolcadik ecloga”)  
 
 ** 4. Halál és transzcendencia
-- Az elmúlás előérzete: a pásztorok, akik nem térnek vissza a nyájhoz  
-- A halott pásztor halk párbeszéde az élőkkel: a túlvilág hangja („Kilencedik ecloga”)  
-- Reménycsillanás a transzcendenciában: záró képsorok a megváltásról  
+- Az *elmúlás* előérzete: a pásztorok, akik nem térnek vissza a nyájhoz  
+- A halott *pásztor halk párbeszéde az élőkkel*: a *túlvilág hangja („Kilencedik ecloga”)*  
+- *Reménycsillanás* a transzcendenciában: záró *képsorok a megváltásról*  
 
 * Kulcseklogák
 ** „Ecloga I–III” (1931–1935)
-- Klasszikus antik előkép: Theokritos és Vergilius utalások  
-- Csendes természeti kép és pásztori beszélgetések  
+- Klasszikus *antik előkép*: Theokritos és Vergilius utalások  
+- *Csendes természeti kép* és *pásztori beszélgetések*  
 
 ** „Hetedik ecloga” (1938)
-- Politikai allegória: engedelmesség vs. lázadás  
-- Kéttagú dialógus, a pásztor és a juhász beszélgetése  
+- Politikai allegória: *engedelmesség vs. lázadás*  
+- Kéttagú dialógus, a *pásztor és a juhász beszélgetése*  
 
 ** „Nyolcadik ecloga” (1941)
-- Baráti emlékezés: a költőtársak hiánya és az emlékfenntartás  
-- Szabad versforma, mély érzelmi alaphang  
+- Baráti emlékezés: a *költőtársak hiánya* és az *emlékfenntartás*  
+- Szabad versforma, *mély érzelmi alaphang*  
 
 ** „Kilencedik ecloga” (1944)
-- Ember vs. halál: a pásztor és a halott párbeszéde  
-- Transzcendens leírás: a földi és túlvilági síkok átfedése  
+- *Ember vs. halál*: a *pásztor és a halott párbeszéde*  
+- Transzcendens leírás: a *földi és túlvilági síkok* átfedése  
 
 * Stílus és forma
-- Versmérték: váltakozó daktilusos és jambikus ütemek, szabadvers elemekkel keverve  
-- Nyelvezet: egyszerre archaizáló pásztori szólamok és modern költői szófordulatok  
-- Hangnem: lírai intim vallomás, melankólia és reményvágy váltakozó tónusban  
+- Versmérték: váltakozó daktilusos és jambikus ütemek, *szabadvers elemekkel* keverve  
+- Nyelvezet: egyszerre archaizáló *pásztori szólamok és modern költői szófordulatok*  
+- Hangnem: lírai *intim (személyes) vallomás*, melankólia és *reményvágy* váltakozó tónusban  
 
 * Jelentőség és hatás
-- Modern magyar líra egyik legszemélyesebb korszaka: eklogák a Holocaust előtti és alatti időszak vizuális és érzelmi dokumentumai  
+- Modern magyar líra egyik legszemélyesebb korszaka: *eklogák a Holocaust előtti és alatti időszak vizuális és érzelmi dokumentumai*  
 - Nemzetközi párhuzamok: Eliot és Auden pásztori motívumaihoz való viszony  
-- Utóélet: gyász- és megemlékezés-versek inspirációja a kortárs lírában  
+- Utóélet: *gyász- és megemlékezés-versek inspirációja* a *kortárs lírában*  
