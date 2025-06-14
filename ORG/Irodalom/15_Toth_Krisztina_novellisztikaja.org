@@ -3,67 +3,67 @@
 #+LANGUAGE: hu
 * Áttekintés
 - Szerző: Tóth Krisztina (sz. 1967)  
-- Novellisztikai tevékenység kezdete: 1990-es évek közepe  
-- Fő műfajok: rövidpróza, hosszabb novellák, elbeszélések; gyakori ciklusszerkesztés  
-- Hangnem: töredezett narráció, belső monológok, precíz képiség, nyelvi kísérletek  
+- Novellisztikai tevékenység kezdete: *1990-es évek közepe*  
+- Fő műfajok: *rövidpróza, hosszabb novellák, elbeszélések*; gyakori ciklusszerkesztés  
+- Hangnem: *töredezett narráció*, *belső monológok*, precíz képiség, nyelvi kísérletek  
 
 * Tematikai egységek
 ** 1. Identitás és én-keresés
 - Személyes múlt és emlékezet: struktúra-puzzle („Pixel”, 1998)  
-- Én és mások viszonya: az elbeszélő én kételyei, elidegenedés motívuma  
-- Nemi és generációs identitás kérdései: női létélmény, anyaság („Magas labda”, 2005)  
+- Én és mások viszonya: az *elbeszélő én kételyei*, *elidegenedés motívuma*  
+- Nemi és generációs identitás kérdései: *női létélmény, anyaság* („Magas labda”, 2005)  
 
 ** 2. Nyelv és narráció kísérletek
-- Töredezett szerkezet: rövid ugrások, vágóképszerű beállítások  
+- *Töredezett szerkezet*: rövid ugrások, *vágóképszerű* beállítások  
 - Fiktív dokumentumok és levelek: olvasói pozíció megingatása („Rekviem egy tévedésért”, 2002)  
-- Intertextualitás: utalások kortárs és klasszikus szövegekre  
+- Intertextualitás: *utalások kortárs és klasszikus szövegekre*  
 
 ** 3. Városi lét és marginalitás
-- Budapesti terek: köztes zónák, aluljárók, lépcsőházak  
-- Kitaszított figurák: hajléktalanok, kiégett művészek, magányos fiatalok  
-- Városi zaj és csend párbeszéde: a belső mikrovilág tükörképe  
+- Budapesti terek: *köztes zónák, aluljárók, lépcsőházak*  
+- Kitaszított figurák: *hajléktalanok, kiégett művészek, magányos fiatalok* 
+- *Városi zaj és csend párbeszéde*: a belső mikrovilág tükörképe  
 
 ** 4. Test és testrégiók
-- Testi élmények: betegség, öregedés, szülői test („Az ország legjobb hóhéra”, 2018)  
-- Szülés, szoptatás és az anya-test kettőssége  
-- Szenzualitás vs. fájdalom: élmény-limiten túli próza  
+- Testi élmények: *betegség, öregedés, szülői test* („Az ország legjobb hóhéra”, 2018)  
+- *Szülés, szoptatás és az anya-test* kettőssége 
+- Szenzualitás *(élvezet) vs. fájdalom*: élmény-limiten túli próza  
 
 ** 5. Társadalmi és politikai reflexiók
-- Posztszocialista valóság: rendszerváltás hétköznapjai, kiábrándulás  
-- Generációs konfliktusok: apa–gyerek viszony, pedagógusi szerep  
-- A privát politikuma: személyes történetek mint társadalmi tükör  
+- Posztszocialista valóság: *rendszerváltás hétköznapjai*, *kiábrándulás*  
+- Generációs konfliktusok: *apa–gyerek viszony*, *pedagógusi (tanító) szerep* 
+- A privát politikuma: *személyes történetek* mint társadalmi tükör  
 
 * Kulcsciklusok és művek
 ** Pixel (1998)
-- Novellaciklus: apró mozaikdarabokból épülő család- és identitástörténet  
-- Nyelvi játékosság, töredékesség  
+- Novellaciklus: *apró mozaikdarabokból épülő család*- és identitástörténet  
+- *Nyelvi játékosság, töredékesség*  
 
 ** Rekviem egy tévedésért (2002)
-- Elbeszélői monológok, dokumentumszerű elemek  
+- *Elbeszélői monológok*, *dokumentumszerű elemek*  
 - Engedély és tiltás motívuma; hibázó én  
 
 ** Magas labda (2005)
-- Sportszimbolika: labdajáték mint életmetafora  
-- Anyasági és bölcsészlélektani reflexiók  
+- Sportszimbolika: *labdajáték mint életmetafora*  
+- *Anyasági és bölcsészlélektani reflexiók*  
 
 ** Sárbogárdi Jolán: A test angyala (2011)
-- Fiktív kritika-regény: novellafigurák értelmezése, metaelbeszélés  
+- *Fiktív kritika-regény*: *novellafigurák értelmezése*, *metaelbeszélés* 
 - Műfajhatárok elmosása  
 
 ** Az ország legjobb hóhéra (2018)
-- Egy novellaciklus a hatalom eszközeiről, kínzás és bűntudat témája  
+- Egy *novellaciklus* a *hatalom eszközeiről*, *kínzás* és *bűntudat* témája  
 - Történelmi utalások, allegorikus szerkesztés  
 
 * Stílus és nyelvezet
 - Lekeretezett jelenetképek: filmes vágástechnika prózában  
-- Pontos, minimalista leírások, metaforák sűrítése  
+- *Pontos, minimalista leírások*, metaforák sűrítése  
 - Belső monológ és free indirect discourse keveredése  
-- Mondatszerkezet-váltások: rövid-egyszerű és hosszú, összetett távlatok  
-- Szándékos ismétlések ritmusa és hangsúlyai  
+- *Mondatszerkezet*-váltások: *rövid-egyszerű és hosszú*, összetett távlatok  
+- Szándékos *ismétlések ritmusa és hangsúlyai*  
 * Jelentőség és hatás
 - Kortárs magyar novellisztika egyik leginnovatívabb hangja  
-- Nőkép és testkérdés újszerű megközelítése a posztmodern prózában  
-- Inspiráció a fiatal szerzők számára: nyelvi merészség és szerkesztési kísérletek  
+- *Nőkép és testkérdés újszerű megközelítése* a posztmodern prózában  
+- *Inspiráció a fiatal szerzők számára*: nyelvi *merészség* és szerkesztési kísérletek  
 - Egyetemi oktatási irodalom: nyelvészeti és irodalmi kurzusokban gyakran elemzett  
 
   
