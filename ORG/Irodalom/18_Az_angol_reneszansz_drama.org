@@ -2,72 +2,72 @@
 #+AUTHOR: Gyenes Béla
 #+LANGUAGE: hu
 * Áttekintés
-- Keletkezés időszaka: kb. 1558 (I. Erzsébet trónra lépése) – 1642 (polgárháború kitörése)  
-- Fő műfajok: tragédia, történelmi dráma, komédia, színpados allegóriák  
-- Jellegzetesség: antik minták újjáélesztése, humanista eszmék, erős versek és prózai dialógusok egyensúlya  
+- Keletkezés időszaka: kb. *1558* (I. Erzsébet trónra lépése) – *1642* (polgárháború kitörése)  
+- Fő műfajok: *tragédia, történelmi dráma, komédia, színpados allegóriák*  
+- Jellegzetesség: *antik minták újjáélesztése*, *humanista eszmék*, erős versek és prózai dialógusok egyensúlya  
 
 * Történelmi és kulturális háttér
 ** Humanizmus és reneszánsz Angliában
-- Itáliai és francia hatások: Petrarca, Ariosto fordítások és tanulmányozása  
-- Egyházi-megújulási mozgalmak: királyi hatalom és reformáció feszültségei  
-- Színházi infrastruktúra: nyilvános játszóterek (The Globe, The Rose), permanens társulatok  
+- *Itáliai és francia hatások*: Petrarca, Ariosto fordítások és tanulmányozása  
+- *Egyházi-megújulási (anglikán egyház)* mozgalmak: *királyi hatalom és reformáció feszültségei*  
+- Színházi infrastruktúra: *nyilvános játszóterek* (The Globe, The Rose), permanens társulatok  
 
 ** Színházi környezet és közönség
-- Nyilvános és udvari előadások: udvari mulatságok, nyilvános ringek lármafényben  
-- Nézőtér sokszínűsége: nemesség, polgárság, plebs – a „groundling” és a erkély nézői élménye  
-- Cenzúra és engedélyezés: Lordok kamarillája, Master of the Revels  
+- *Nyilvános és udvari előadások*: udvari *mulatságok*, nyilvános ringek lármafényben  
+- Nézőtér *sokszínűsége*: *nemesség, polgárság,* plebs – a „groundling” és a erkély nézői élménye  
+- *Cenzúra és engedélyezés*: *Lordok (királyi csoport)* kamarillája, Master of the Revels  
 
 * Fő tematikai irányvonalak
-** Antik mitológia és klasszikus motívumok
-- Szophoklész, Euripidész példaképek: erkölcsi kérdések és tragikus sorsok adaptálása  
-- Ősi hősiesség és erkölcsi dilemmák: família, kötelesség, isteni beavatkozás  
+** *Antik mitológia és klasszikus motívumok*
+- Szophoklész, Euripidész példaképek: *erkölcsi kérdések és tragikus sorsok* adaptálása  
+- *Ősi hősiesség és erkölcsi dilemmák*: *família (család), kötelesség, isteni beavatkozás*  
 
 ** Politikai hatalom és intrika
 - Király és alattvaló viszonya: trónharcok, árulás, hatalmi legitimáció kérdései  
-- Valós történelmi figurák drámai újraírása („Richard III.”, „Henry V.”)  
+- Valós *történelmi figurák* drámai újraírása („Richard III.”, „Henry V.”)  
 
 ** Szerelem, szenvedély és emberi dráma
-- Romantikus szenvedélyek: ifjúság lázadása, tiltott kapcsolatok („Romeo és Júlia”)  
-- Családi viszályok és társadalmi korlátok: szülői akarat kontra egyéni vágyak  
+- Romantikus szenvedélyek: *ifjúság lázadása*, *tiltott kapcsolatok („Rómeó és Júlia William Shakespeare”)*  
+- Családi *viszályok és társadalmi korlátok*: *szülői akarat kontra egyéni vágyak*  
 
 ** Komédia és társadalmi ábrázolás
-- Szatirikus karakte­rek: ostoba udvaroncok, ravasz szolgák, meddő arrogancia („Falstaff”, „Beating of the Breeches”)  
-- Álcázás és félreértés: identitásjátékok, álruhás jelenetek, happy end  
+- Szatirikus karakte­rek: *ostoba udvaroncok*, *ravasz szolgák*, meddő *arrogancia* („Falstaff”, „Beating of the Breeches”)  
+- *Álcázás* és félreértés: *identitásjátékok, álruhás jelenetek*, happy end  
 
 * Jelentős drámaírók és fő műveik
 ** William Shakespeare (1564–1616)
-- Tragédiák: „Hamlet”, „Othello”, „King Lear”, „Macbeth”  
+- Tragédiák: *„Hamlet”*, *„Romeo & Julia”* „Othello”, „King Lear”, „Macbeth”  
 - Történelmi drámák: „Richard II.”, „Henry IV.” kétrészes, „Henry V.”  
-- Komédiák: „Szentivánéji álom”, „Twelfth Night”, „Mérés uristenének”  
+- Komédiák: „Szentivánéji álom”, „Twelfth Night”, „Mérés úristenének”  
 
 ** Christopher Marlowe (1564–1593)
-- Drámai hősök nagyvonalúsága: „Tamburlaine”, „Doctor Faustus”  
+- Drámai *hősök nagyvonalúsága*: „Tamburlaine”, „Doctor Faustus”  
 - Versek és próza: erőteljes jambikus pentameter  
 
 ** Ben Jonson (1572–1637)
 - Szatirikus komédiák: „Every Man in His Humour”, „Volpone”  
-- Lírai műfajok: epigrammák, ünnepi játékok („The Masque of Blackness”)  
+- Lírai műfajok: *epigrammák*, *ünnepi játékok* („The Masque of Blackness”)  
 
 ** John Webster (1580–1634 körül)
-- Sötét tragédiák: „The Duchess of Malfi” – misztikum és erőszak  
+- Sötét *tragédiák*: „The Duchess of Malfi” – misztikum és erőszak  
 
 ** Thomas Kyd (1558–1594)
 - „The Spanish Tragedy” mint a revenger drama prototípusa  
 
 * Stílus és szerkesztés
 ** Nyelvi eszközök
-- Jambikus pentameter: lendület, feszültség a verssorokban  
-- Szószerkezetek: antik klasszicizmusból vett szó-kép párok, allegorikus jelképek  
+- Jambikus pentameter: *lendület, feszültség a verssorokban*  
+- Szószerkezetek: *antik klasszicizmusból vett szó-kép párok*, allegorikus jelképek  
 
 ** Drámai szerkezet
-- Öt felvonásos szerkezet: expozíció, bonyodalom, tetőpont, megoldás  
+- Öt felvonásos szerkezet: *expozíció, bonyodalom, tetőpont, megoldás*
 - Kettős cselekményszál: fő- és mellékszálak váltakozása  
 
 ** Pódium és díszlet
-- Minimális díszlet, jelképes kellékek („képernyős faizé”)  
+- *Minimális díszlet*, jelképes kellékek („képernyős faizé”)  
 - Szereplők és nézők közt fellazult negyedik fal  
 
 * Hatás és örökség
-- Európai drámairodalom forradalmasítása: kevert műfajmodellek továbbélése  
+- Európai *drámairodalom forradalmasítása*: *kevert műfajmodellek* továbbélése  
 - Klasszikus hatás a franciák és németek 17–18. századi drámáiban  
 - Kortárs színházi adaptációk és filmszerű reinterpretációk  
