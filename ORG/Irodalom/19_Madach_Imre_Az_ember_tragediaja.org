@@ -3,71 +3,71 @@
 #+LANGUAGE: hu
 * Áttekintés
 - Szerző: Madách Imre (1823–1864)  
-- Keletkezés: 1859–1861, először 1861-ben jelent meg  
-- Műfaj: drámai költemény, filozófiai eposz—dráma és líra határán  
-- Szereplők: Ádám, Éva, Lucifer, valamint történelmi és allegorikus figurák  
-- Fő kérdésfelvetés: az emberi lét értelme, a küzdelem és a bukás dialektikája  
+- Keletkezés: *1859–1861*, először 1861-ben jelent meg  
+- Műfaj: *drámai költemény*, *filozófiai eposz—dráma* és *líra határán*  
+- Szereplők: *Ádám, Éva, Lucifer, valamint történelmi és allegorikus figurák*  
+- Fő kérdésfelvetés: az *emberi lét értelme*, a *küzdelem és a bukás* dialektikája  
 
 * Szerkezet és jelenetek
 ** Prológus (Édenkert)
-- Isten, Ádám és Lucifer dialógusa: az emberi szabadság és bukás problematikája  
-- Útmutatás: Lucifer mint cáfoló figura, Ádám mint minden ember archetipikus alakja  
+- *Isten, Ádám és Lucifer dialógusa*: az *emberi szabadság és bukás* problematikája  
+- Útmutatás: *Lucifer mint cáfoló figura*, *Ádám mint minden ember archetipikus (tipikus) alakja*
 - Kulcsmotívum: szabadságvágy vs. isteni gondviselés  
 
 ** 1. A bűnbeesés és kiűzetés
 - Édenkert idilli képe, Ádám és Éva gyermeki boldogsága  
-- Tudás fája és a tiltott ismeret elnyerése  
-- Lucifer gúnyos kommentárjai, Ádám kételyei  
+- *Tudás fája és a tiltott ismeret elnyerése*  
+- *Lucifer gúnyos kommentárjai, Ádám kételyei*
 
 ** 2. Egyiptom (Fáraó udvara)
-- Ádám szolgálata Mózes korában: a hatalom és zsarnokság kritikája  
-- Életérzés: szereplők felszínes hatalmi ambíciói, a magányos küzdelem  
-- Kiábrándultság: Ádám elhagyja a palotát  
+- Ádám szolgálata Mózes korában: a *hatalom és zsarnokság* kritikája  
+- Életérzés: szereplők *felszínes hatalmi ambíciói (becsvágya)*, a *magányos küzdelem*  
+- *Kiábrándultság*: Ádám elhagyja a palotát  
 
 ** 3. Görögország (Athéni park)
-- Filozófiai eszmecserék: diákság, tudomány, művészet diadal és határai  
-- Ádám vágyakozása az eszmény, szépség és tudás után  
-- Gordion csomója motívum: a cselekvés és megoldás dilemmája  
+- Filozófiai eszmecserék: *diákság, tudomány, művészet diadal* és határai  
+- Ádám *vágyakozása az eszmény, szépség és tudás után*  
+- Gordion csomója motívum: a *cselekvés és megoldás dilemmája*  
 
 ** 4. Róma (Caesar udvara)
-- Hatalmi gépezet: Caesar bürokráciája, a római birodalom pompája  
-- Ádám megtapasztalja a politikai hatalom korlátait és a személyes felelősséget  
-- Tragikus fordulat: szervezett, átláthatatlan gépezetben való elveszettség  
+- Hatalmi gépezet: *Caesar bürokráciája (uralkodása a nép felett)*, a római birodalom pompája  
+- *Ádám megtapasztalja a politikai hatalom korlátait és a személyes felelősséget* 
+- Tragikus fordulat: szervezett, átláthatatlan *gépezetben való elveszettség*  
 
 ** 5. Középkor (Lovagi tábor)
-- Lovagi idealizmus, keresztes hadjáratok: vallás és erőszak egymásba fonódása  
-- Ádám és Éva újabb személyes küzdelme: hit, fanatizmus, halhatatlanság vágya  
-- Kiábrándulás a vallási dogmatizmusból  
+- Lovagi idealizmus, *keresztes hadjáratok*: *vallás és erőszak egymásba fonódása*  
+- Ádám és Éva újabb személyes küzdelme: *hit*, fanatizmus, *halhatatlanság vágya*  
+- *Kiábrándulás a vallási dogmatizmusból*  
 
 ** 6. Felvilágosodás kora (Francia udvar, forradalom)
 - Tudomány és haladás eszméje: Rousseau, Voltaire szellemi hatása  
-- Ádám részt vesz a forradalmi eszmékben, de látja a terror és zsarnokság kettősségét  
+- Ádám *részt vesz a forradalmi eszmékben*, de látja a *terror és zsarnokság kettősségét*  
 - A jó szándék és a hatalom korrumpáló ereje  
 
 ** 7. Jövő emberisége (Félig sivatagos táj)
-- Ember a technika uralma alatt: gépek, atomfegyverek, önpusztító hajlam  
-- Elidegenedés: az emberi kapcsolatok felbomlása, a közösség kudarcai  
-- Utolsó remény: álmok az emberiség újrakezdéséről  
+- Ember a technika uralma alatt: *gépek, atomfegyverek, önpusztító hajlam*  
+- *Elidegenedés*: az *emberi kapcsolatok felbomlása*, a közösség kudarcai  
+- Utolsó *remény*: álmok az *emberiség újrakezdéséről*  
 
 ** Epilógus (Visszatérés az Édenbe)
-- Lucifer győzedelmes visszatérése, Ádám és Éva bukása ismétlődése  
-- Záró kép: örök körforgás, a küzdés eszméje marad az egyetlen vigasz  
+- *Lucifer győzedelmes visszatérése*, *Ádám és Éva bukása* ismétlődése  
+- Záró kép: *örök körforgás*, a *küzdés eszméje marad* az egyetlen vigasz  
 
 * Fő motívumok és tematikák
-- Szabadság vs. determináció: minden korszakban megjelenik a választás lehetősége  
-- Küzdés értelme: az ember soha nem hagyhat fel törekvéseivel, bármennyire is reménytelen  
-- Bukás és megváltás: bukunk, de a remény mindig újrakezdésre ösztönöz  
+- Szabadság vs. determináció: *minden korszakban megjelenik a választás lehetősége*  
+- Küzdés értelme: az *ember soha nem hagyhat fel törekvéseivel*, bármennyire is reménytelen  
+- Bukás és megváltás: *bukunk, de a remény mindig újrakezdésre ösztönöz*  
 - Lucifer alakja: örök kétkedő, de egyben inspiráló katalizátor  
-- Idő és történelem: az emberiség folyamatos fejlődésének (vagy regressziójának) tükre  
+- Idő és történelem: az *emberiség folyamatos fejlődésének (vagy regressziójának) tükre*  
 
 * Stílus és forma
-- Drámai költemény: váltakozó jambikus és szabadvers ritmusok  
-- Dialógusközpontúság: monológok és dialógusok viszik előre a cselekményt  
-- Allegória és realista részletek keveredése: egyszerre mítoszi és történelmi hangvétel  
+- Drámai költemény: *váltakozó* jambikus és *szabadvers ritmusok*  
+- Dialógusközpontúság: *monológok és dialógusok viszik előre a cselekményt*  
+- Allegória és realista részletek keveredése: egyszerre *mítoszi és történelmi hangvétel*  
 - Szimbolikus helyszínek: minden kor egy-egy tipikus állapotot testesít meg  
 
 * Jelentőség és hatás
-- Magyar irodalom koronázatlan csúcsa: egységes történelmi–filozófiai látomás  
+- Magyar irodalom koronázatlan csúcsa: egységes *történelmi–filozófiai látomás*  
 - Filozófiai dráma: világirodalmi párhuzamok (Goethe Faustjával, Byron-féle világdrámákkal)  
-- Iskolai kanonizáció: kötelező olvasmány, széles hatás a magyar kultúrára  
-- Modern értelmezések: pszichológiai, feminista és történeti olvasatok  
+- Iskolai kanonizáció: *kötelező olvasmány*, széles hatás a magyar kultúrára  
+- *Modern értelmezések: pszichológiai, feminista és történeti olvasatok*  
