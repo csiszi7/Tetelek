@@ -2,77 +2,77 @@
 #+AUTHOR: Gyenes Béla
 #+LANGUAGE: hu
 * Áttekintés
-- Szerző: Nyikolaj Vasziljevics Gogol (1809–1852)  
-- Korszakváltás: a romantikus hangulatból a korai realizmus felé vezető átmenet  
-- Fő műfajok: elbeszélések, novella, színmű, regényrészletek  
-- Tematikai fókusz: a groteszk–fantaszta­szerű elemek és a társadalmi kritika ötvözése  
+- Szerző: Nyikolaj Vasziljevics *Gogol* (1809–1852)  
+- Korszakváltás: a *romantikus hangulatból a korai realizmus felé* vezető átmenet  
+- Fő műfajok: *elbeszélések, novella, színmű, regényrészletek*  
+- Tematikai fókusz: a *groteszk–fantaszta­szerű elemek* és a *társadalmi kritika ötvözése*  
 
 * Történelmi és irodalmi háttér
 ** Orosz romantika jellemzői
-- Szubjektív, lírai én megjelenése  
-- Fantasztikus és misztikus elemek (Puskin, Lermontov hatása)  
-- Nemzeti karakter idealizálása  
+- *Szubjektív, lírai én* megjelenése  
+- Fantasztikus és *misztikus elemek* (Puskin, Lermontov hatása)  
+- *Nemzeti karakter idealizálása*  
 
 ** Korai orosz realizmus törekvései
-- Társadalmi valóság ábrázolása, karcolatszerű részletek  
-- Hétköznapi figurák, „kisember” sorsának feltárása (Gercsenikov, Dostojevszkij előfutárai)  
+- *Társadalmi valóság ábrázolása*, karcolatszerű részletek  
+- *Hétköznapi figurák*, „kisember” sorsának feltárása (Gercsenikov, Dostojevszkij előfutárai)  
 - A műnemek közötti határok elmosódása  
 
 * Gogol romantikus öröksége
 ** Fantasztikum és népi hagyomány
-- Ukrán tájak, népballadák és babonák („Vij”, „Tarasz Bulba” részletek)  
-- Helyi dialektusok, népies szólamok: folklór-imitáció  
-- Szürreális, álomszerű jelenetek: éjszakai utazások, kísértetek  
+- Ukrán tájak, *népballadák és babonák* („Vij”, „Tarasz Bulba” részletek)  
+- Helyi dialektusok, *népies szólamok*: folklór-imitáció  
+- *Szürreális*, álomszerű *jelenetek*: *éjszakai utazások, kísértetek*  
 
 ** Lírikus–szatirikus hang
-- Élénk, érzékeny leírások a természetről és az emberekről  
+- Élénk, érzékeny *leírások a természetről és az emberekről*  
 - A romantikus idealizmus helyenként ironikus feloldása  
 
 * Gogol realizmus-innovációi
 ** Kisember-ábrázolás
-- Akakij Akakijevics (Az orr, A köpönyeg): a hivatalnok mindennapi tragikomédiája  
-- Példázatszerű felépítés, a karakter sorsa mint társadalmi kritikai eszköz  
+- Akakij Akakijevics (Az orr, A köpönyeg): a *hivatalnok mindennapi tragikomédiája*  
+- Példázatszerű felépítés, a *karakter sorsa mint társadalmi kritikai eszköz*  
 
 ** Társadalmi groteszk
-- A hivatalnoki gépezet és a hétköznapi ember konfliktusa  
-- Abszurd helyzetek: hivatalok, sorbanállások, hatalmi visszaélések  
-- Humánus komikum és keserű irónia  
+- A *hivatalnoki gépezet (hatalmi réteg) és a hétköznapi ember konfliktusa*
+- Abszurd helyzetek: *hivatalok, sorbanállások, hatalmi visszaélések*  
+- *Humánus komikum és keserű irónia*  
 
 ** Realista részletek és dokumentarista vonások
-- Pontos tér- és korleírás: Szentpétervár, kisvárosi hivatalok, utcasarkok  
-- Jellemrajzok mögött rejlő pszichológia: az egyén és rendszer viszonya  
+- Pontos tér- és korleírás: *Szentpétervár, kisvárosi hivatalok, utcasarkok*  
+- Jellemrajzok mögött rejlő pszichológia: az *egyén és rendszer viszonya*  
 
 * Fő művek a határvidéken
 ** “A köpönyeg” (1842)
-- Rövid novella, a kisember tragikuma  
-- Realista részletek: hivatalnoki élet apró mozdulatai  
-- Romantikus groteszk: a lopott köpönyeg kísértete  
+- *Rövid novella, a kisember tragikuma*  
+- Realista részletek: *hivatalnoki élet apró mozdulatai*  
+- Romantikus groteszk: a *lopott köpönyeg* kísértete  
 
 ** “Az orr” (1836)
-- Fantasztikus történet: az orr, mint önálló “személyiség”  
+- Fantasztikus történet: az *orr, mint önálló “személyiség”*  
 - Satíra a bürokráciára és a társadalmi címekre  
 
 ** “Vij” (1835, kőnyvből vett elbeszélés)
-- Romantikus–misztikus hangulat, népi babonaelemek  
+- Romantikus–misztikus hangulat, *népi babonaelemek*  
 - A műfaji határok átlépése: novella és folklór  
 
 ** “Tarasz Bulba” (1835, bővített változat 1842)
-- Romantikus epika, kiemelt hősiesség és nemzeti sorsmotívum  
-- Kezdeti realizmus: népiség, társadalmi ellentétek bemutatása  
+- Romantikus epika, *kiemelt hősiesség és nemzeti sorsmotívum*  
+- Kezdeti realizmus: *népiség, társadalmi ellentétek bemutatása*  
 
 ** “Hol lakunk?” / “Szentpétervár képei” (1835)
-- Karcolatszerű novella: városi életképek, társadalmi rétegek  
-- Dokumentarista vonások: utcai jelenetek hiteles ábrázolása  
+- Karcolatszerű novella: *városi életképek*, *társadalmi rétegek*  
+- Dokumentarista vonások: *utcai jelenetek* hiteles ábrázolása  
 
 * Stílus és formai sajátosságok
-- Műfajok összefonódása: romantikus novella, groteszk karcolat, realista karikatúra  
-- Nyelvi kettősség: archaizálás és köznyelvi humor  
-- Narráció: mesélő–elbeszélő szerepkettőzés, ironikus kommentárok  
-- Szimbólumok és szekvenciális szerkesztés: tárgyak mint jelentéshordozók (köpönyeg, orr)  
+- Műfajok összefonódása: *romantikus novella*, groteszk *(emberkép ábrázolása)* karcolat, *realista karikatúra (humor)*  
+- Nyelvi kettősség: *archaizálás (elavult) és köznyelvi humor*  
+- Narráció: *mesélő–elbeszélő* szerepkettőzés, *ironikus kommentárok*  
+- Szimbólumok és szekvenciális szerkesztés: *tárgyak mint jelentéshordozók (köpönyeg, orr)*  
 
 * Jelentőség és hatás
-- Az orosz kisemberirodalom megalapozója  
-- A romantika és realizmus közötti hídépítő szerep  
+- Az orosz *kisemberirodalom megalapozója*  
+- A *romantika és realizmus közötti hídépítő szerep*  
 - A groteszk–fantasztikum és a társadalmi kritika újszerű egyesítése  
-- Dalszerű, karcolatszerű elbeszélésmód inspirációként szolgált 19–20. századi orosz és európai prózában  
+- *Dalszerű, karcolatszerű (tréfás) elbeszélésmód inspirációként szolgált* 19–20. századi orosz és európai prózában  
 
