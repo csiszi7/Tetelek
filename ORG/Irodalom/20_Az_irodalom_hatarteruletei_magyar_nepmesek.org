@@ -2,66 +2,66 @@
 #+AUTHOR: Gyenes Béla
 #+LANGUAGE: hu
 * Áttekintés
-- Műfaj: népmesék – írásos és szájhagyomány útján terjedő rövid epikus elbeszélések  
-- Források: gyűjtők (Krisztina Károlyi, László László, Benedek Elek), helyi változatok, dialektusok  
-- Tematikai fókusz: mesei csoda, hős és kaland, erkölcsi tanulság, rítus és folklór  
+- Műfaj: népmesék – *írásos és szájhagyomány útján terjedő rövid epikus elbeszélések*  
+- Források: *gyűjtők* (Krisztina Károlyi, László László, Benedek Elek), *helyi változatok*, dialektusok  
+- Tematikai fókusz: *mesei csoda*, *hős és kaland*, *erkölcsi tanulság*, rítus és folklór  
 
 * Történeti és kulturális háttér
-- Szájhagyomány: közösségi előadás, rituális alkalmak (ünnepek, falusi összejövetelek)  
-- Írásba foglalás: 19. század végi–20. századi gyűjtőmunka, irodalmi feldolgozások  
-- Néprajzi kontextus: tájegységenként különböző motívumkészlet és stilisztikai jegyek  
+- Szájhagyomány: *közösségi előadás*, rituális alkalmak *(ünnepek, falusi összejövetelek)*  
+- Írásba foglalás: *19. század végi–20. századi gyűjtőmunka*, irodalmi *feldolgozások*  
+- Néprajzi *kontextus*: *tájegységenként különböző motívumkészlet és stilisztikai jegyek*  
 
 * Mesealapú határterületek
-** 1. Vallási legendák és csodák
-- Szentek és csodatévő alakok népies történetei  
-- Egyházi rítusok és népi hiedelmek keveredése  
+** 1. *Vallási legendák és csodák*
+- *Szentek* és *csodatévő alakok* népies történetei  
+- *Egyházi rítusok* és népi hiedelmek keveredése  
 
 ** 2. Mondák és történelmi mesék
-- Ősi hősök (Szent István, László király) sorsa és tettei népi köntösben  
-- Történelmi események mesei átírásai  
+- Ősi *hősök (Szent István, László király) sorsa és tettei* népi köntösben  
+- *Történelmi események mesei átírásai*  
 
 ** 3. Századfordulói irodalmi mesék
-- Benedek Elek meséi: stilizált, moralizáló változatok  
+- Benedek Elek meséi: *stilizált, moralizáló változatok* 
 - Iskolai kötelező olvasmányokként formált, nyelvileg kiegyenesített történetek  
 
 ** 4. Fantasztikus és varázstörténetek
-- Varázslatos segítők (ördög, tündér, boszorkány) szerepe  
+- Varázslatos segítők *(ördög, tündér, boszorkány) szerepe*  
 - Bokréta-motívum: próba, három próbafeladat és jutalom  
 
 ** 5. Szociális és erkölcsi tanmesék
-- Szegény legény felemelkedése: szorgalom, leleményesség jutalma  
-- Gonoszság büntetése, jóság díjazása: erkölcsi világkép bemutatása  
+- *Szegény legény* felemelkedése: *szorgalom, leleményesség* jutalma  
+- *Gonoszság büntetése, jóság díjazása*: *erkölcsi világkép bemutatása*  
 
 * Kulcselemek és motívumok
-** Hős és feladata
-- Ifjú legény, királyfi vagy szegény legény szerepe  
-- Három próbafeladat: bölcsesség, bátorság, állhatatosság  
+** *Hős és feladata*
+- *Ifjú* legény, *királyfi* vagy *szegény legény* szerepe  
+- Három próbafeladat: *bölcsesség, bátorság*, állhatatosság  
 
 ** Segítők és akadályozók
-- Segítők: erdei szellem, állati szövetséges, varázstárgy  
-- Ellenségek: sárkány, boszorkány, gonosz király  
+- *Segítők*: erdei szellem, *állati szövetséges*, *varázstárgy*  
+- *Ellenségek*: *sárkány*, *boszorkány*, *gonosz király*  
 
 ** Idő és tér kezelése
-- „Egyszer volt, hol nem volt” formu­la  
-- Időtlen tér, utazás a „világ végére” vagy „túlvilágra”  
+- *„Egyszer volt, hol nem volt”* formu­la  
+- Időtlen tér, utazás a *„világ végére” vagy „túlvilágra”*
 
 ** Szám- és formafelépítés
 - Hármas szerkezet: három testvér, három próbálkozás  
-- Ismétlődés és variáció: refrénszerű visszatérő motívumok  
+- *Ismétlődés és variáció*: refrénszerű *visszatérő motívumok*  
 
 * Népmesék irodalmi határai
 ** Gyerek- és ifjúsági irodalom
-- Modern adaptációk: képeskönyvek, meseantológiák  
-- Oktatási célú változatok: nyelvi egyszerűsítés, tematikus válogatás  
+- Modern adaptációk: *képeskönyvek*, meseantológiák  
+- Oktatási célú változatok: *nyelvi egyszerűsítés*, tematikus válogatás  
 
 ** Kortárs irodalmi feldolgozások
-- Verses mesék, meseregények (pl. Esterházy Péter, Parti Nagy Lajos átiratai)  
-- Posztmodern újraértelmezések: intertextualitás, önreflexió  
+- *Verses mesék, meseregények* (pl. Esterházy Péter, Parti Nagy Lajos átiratai)  
+- *Posztmodern újraértelmezések*: intertextualitás, *önreflexió*  
 
 ** Színházi és filmes adaptációk
-- Bábjátékok, dramatizált előadások  
-- Animációs filmek, rajzfilmek modern vizuális stílusban  
+- *Bábjátékok, dramatizált előadások*  
+- *Animációs filmek, rajzfilmek modern vizuális stílusban*  
 
 ** Társadalmi és pszichológiai dimenziók
-- Rituális funkció: közösségi összetartás, erkölcsi nevelés  
+- Rituális funkció: *közösségi összetartás*, *erkölcsi nevelés*  
 - Mélyréteg-pszichológiai értelmezések: Jung-i archetípusok, kollektív tudattalan  
