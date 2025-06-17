@@ -6,7 +6,7 @@
 :PROPERTIES:
 :CUSTOM_ID: szóképek-toposzok
 :END:
-A *szóképek* azaz *toposzok* olyan nyelvi eszközök, amelyek a szavak *megszokott
+A *szóképek* azaz *toposzok* olyan *nyelvi eszközök*, amelyek a szavak *megszokott
 jelentésétől való eltéréssel fejeznek ki tartalmat*, gyakran
 érzékletesebbé, *érzelmileg hatásosabbá téve a mondanivalót*.
 
