@@ -23,7 +23,7 @@ okoseszközök, központi szerepet töltenek be*.
 - Rövidített, *tömör üzenetek*\\
 - Emotikonszimbólumok, *emojik*\\
 - Multimodalitás\\
-- *Szinkron és aszinkron kommunikáció*
+- *Szinkron és aszinkron kommunikáció (valós-valótlan idejű információ csere)*
 
 * 3. Hatások a nyelvhasználatra
 :PROPERTIES:
