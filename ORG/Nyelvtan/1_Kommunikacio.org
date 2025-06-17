@@ -12,8 +12,8 @@ Folyamata:
 
 - Kódolás: A gondolatok *jelekké alakítása (pl. nyelv, gesztus)*.
 
-- Csatorna: Az *eszköz*, amin keresztül az *üzenet eljut (pl. beszédhang,
-írás, média).*
+- Csatorna: Az *eszköz*, amin *keresztül az üzenet eljut* (pl. beszédhang,
+írás, média).
 
 - Vevő (fogadó): Aki az *üzenetet fogadja.*
 
