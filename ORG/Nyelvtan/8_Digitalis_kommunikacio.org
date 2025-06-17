@@ -9,9 +9,9 @@ nyelvi érintkezésre
 :PROPERTIES:
 :CUSTOM_ID: az-információs-társadalom-fogalma
 :END:
-Az információs társadalom olyan korszakot jelöl, ahol az *információ
+Az információs társadalom olyan korszakot jelöl, ahol az információ
 előállítása, feldolgozása, tárolása, továbbítása és felhasználása válik
-a gazdaság, a társadalom és a kultúra legfontosabb tényezőjévé*. Ebben a
+a gazdaság, a társadalom és a kultúra legfontosabb tényezőjévé. Ebben a
 társadalomban a digitális technológia, különösen az *internet és az
 okoseszközök, központi szerepet töltenek be*.
 
